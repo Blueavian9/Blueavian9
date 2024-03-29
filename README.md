@@ -7,11 +7,21 @@ Building RESTful APIs, performing CRUD operations, and implementing efficient da
 Creating dynamic web applications with React, leveraging Axios for API interactions, and useState hooks for state management
 My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development, coupled with my diverse skill set and dedication to delivering high-quality solutions, makes me an ideal candidate for a software development role in the tech industry.
 
-I am excited to be part of a team that works on projects of great importance and would love to discuss any opportunities further. Thank you for your time!
+- 😄 I am excited to be part of a team that works on projects of great importance and would love to discuss any opportunities further. Thank you for your time!
 
 - 🔭 I’m currently working on 3D Portfolio using tailwindcss, React class components, where i display multifple projects i have built during my Coding Bootcamp Journey ...
 - 👯 I’m looking to collaborate and help out as much as possible i am dedicated, hard-working and believe that it is better to give than to recieve...
 - 🤔 I’m looking for help with masterying my Algorithms and Data Structures to an Expert level based knowledge...
 - 💬 Ask me about the projects that i have worked on and what kind of stuff I am building now as a Full-stack Software Engineer Graduate.
+- 👨‍💻  With 2+ years of real world hands-on experience at Bloom Institute of Technology and a proven track record of collaborating with teams to build cutting-edge applications, I am poised to make an immediate impact on your development team. 
+- I'm currently learning Java
 
-- With 2+ years of real world hands-on experience at Bloom Institute of Technology and a proven track record of collaborating with teams to build cutting-edge applications, I am poised to make an immediate impact on your development team. 
+- 🌱 I'm looking for help with getting experience / unpaid internship / non-profit / contribute
+
+- ⚡ Fun facts: I am a dedicated, caring, and hardworking husband who dreams of becoming a father as soon as I establish myself in the tech industry as a software engineer. Another fun fact is that ever since I can remember, I have always been fascinated by programming, dating back to the Myspace era before we all started using Facebook. No offense to my Meta brothers and sisters out there!
+
+-  📝 through out my 7+ self-taught years, I have learned to fall in love with knowledge, the History of A.I. and Technology in General.
+-   
+- I graduated with Academic Achievement Awards in Social Studies and Mathematics. Eventually, I attended college for one year before dropping out to find my calling. After many trials and errors, and through sheer tenacity and perseverance, I remembered what my college counselor once said when assessing my skills and interests. He said, "You should pursue a career in Computer Science. Computers are the future, and you can never regret a good education."
+
+- 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
