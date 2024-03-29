@@ -37,8 +37,8 @@ My background in security and access control management showcases my ability to 
 | **JS Programming**         | **SaaS / PaaS**               |                                       |
 | **Python Programming**     | **Server Administration**     | **Project Management**                |
 | **Java Programming**       | **Flask Micro-Framework**     | **Figma Framework**                   |
-| **PHP Programming**        | **Pygame For GUI Programming**|                                       |
-| **React JS Projects**      | **                          **| **AWS Cloud Infrastructure**          |
+| **Data Structures-&-Algo** | **Pygame For GUI Programming**|                                       |
+| **React JS Projects**      | **/**                         |  **/**                                |
 | **Tailwind CSS Projects**  | **Linux Administration**      |                                       |
 |                            | **Gitbash commandline         |**Database-Management-Systems-Design** |
 
