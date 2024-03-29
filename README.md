@@ -24,42 +24,28 @@ My background in security and access control management showcases my ability to 
 -   
 - I graduated with Academic Achievement Awards in Social Studies and Mathematics. Eventually, I attended college for one year before dropping out to find my calling. After many trials and errors, and through sheer tenacity and perseverance, I remembered what my college counselor once said when assessing my skills and interests. He said, "You should pursue a career in Computer Science. Computers are the future, and you can never regret a good education."
 
+
+
+## 💬 Let's Chat about: 
+
+|                            |                               |                                       |
+|----------------------------|-------------------------------|---------------------------------------|
+| **UI/UX Principles**       | **PostgreSQL Administration** |                                       |
+|                            | **Web Applications**          | **Application Testing**               |
+| **HTML5 Markup             | **Desktop Applications**      |                                       |
+|**CSS3 Markup**             |                               |                                       |
+| **JS Programming**         | **SaaS / PaaS**               |                                       |
+| **Python Programming**     | **Server Administration**     | **Project Management**                |
+| **Java Programming**       | **Flask Micro-Framework**     | **Figma Framework**                   |
+| **PHP Programming**        | **Pygame For GUI Programming**|                                       |
+| **React JS Projects**      | **                          **| **AWS Cloud Infrastructure**          |
+| **Tailwind CSS Projects**  | **Linux Administration**      |                                       |
+|                            | **Gitbash commandline         |**Database-Management-Systems-Design** |
+
+
+
+  
 - 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
 
 
-<p>
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="50px" alt="idea" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="50px" alt="vs" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="50px" alt="pycharm" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" width="50px" alt="android-studio" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg" width="50px" alt="bootstrap" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/django.svg" width="50px" alt="django" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" width="50px" alt="react" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg" width="50px" alt="spring" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg" width="50px" alt="redux" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/rails.svg" width="50px" alt="rails" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" width="50px" alt="nodejs" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/angular.svg" width="50px" alt="angular" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg" width="50px" alt="aws" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/ansible.svg" width="50px" alt="ansible" />
- <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/azure.svg" width="70px" alt="azure" />
-</p>
 
-<p>
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg" width="50px" alt="docker" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/firebase.svg" width="50px" alt="firebase" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" width="50px" alt="github" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/gitlab.svg" width="50px" alt="gitlab" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/heroku.svg" width="50px" alt="heroku" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/terraform.png" width="50px" alt="terraform" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/cassandra.svg" width="50px" alt="cassandra" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mariadb.svg" width="50px" alt="mariadb" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mongodb.svg" width="50px" alt="mongodb" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg" width="50px" alt="mysql" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/oracle.svg" width="50px" alt="oracle" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg" width="50px" alt="postgresql" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/redis.svg" width="50px" alt="redis" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg" width="50px" alt="npm" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" width="50px" alt="git" />
-</p>
- 
