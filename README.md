@@ -1,4 +1,4 @@
- Hello, My Name is Cesar Aguilar 👋
+Hello, My Name is Cesar Aguilar 👋
  
 I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
 
@@ -18,17 +18,17 @@ My background in security and access control management showcases my ability to 
 
 - 🌱 I'm looking for help with getting experience / unpaid internship / non-profit / contribute
 
-- ⚡ Fun facts: I am a dedicated, caring, and hardworking husband who dreams of becoming a father as soon as I establish myself in the tech industry as a software engineer. Another fun fact is that ever since I can remember, I have always been fascinated by programming, dating back to the Myspace era before we all started using Facebook. No offense to my Meta brothers and sisters out there!
+- ⚡ Fun facts: I am a dedicated, caring, and hardworking husband  Another fun fact is that ever since I can remember, I have always been fascinated by programming, dating back to the Myspace era.
 
--  📝 through out my 7+ self-taught years, I have learned to fall in love with knowledge, the History of A.I. and Technology in General.
+-  📝 through out my 7+ self-taught years, I have learned to fall in love with knowledge, and appreciate the History of A.I. and Technology in General.
 -   
-- I graduated with Academic Achievement Awards in Social Studies and Mathematics. Eventually, I attended college for one year before dropping out to find my calling. After many trials and errors, and through sheer tenacity and perseverance, I remembered what my college counselor once said when assessing my skills and interests. He said, "You should pursue a career in Computer Science. Computers are the future, and you can never regret a good education."
+- I graduated with Academic Achievement Awards in Social Studies.
 
 
 
 ## 💬 Aks me about: 
 
-| FRONT END SKILLS AND EXPERIENCE                                                                    |  
+| **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
 | **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
