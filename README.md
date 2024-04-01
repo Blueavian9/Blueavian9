@@ -28,7 +28,7 @@ My background in security and access control management showcases my ability to 
 
 ## 💬 Aks me about: 
 
-| FRONT-END SKILLS AND EXPERIENCE                                                                    |  
+| FRONT END SKILLS AND EXPERIENCE                                                                    |  
 |----------------------------------------------------------------------------------------------------|
 | **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
@@ -42,9 +42,9 @@ My background in security and access control management showcases my ability to 
 | **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
 | **Gitbash commandline**    | **React Router**              | **Redux**                             |
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
-|----------------------------------------------------------------------------------------------------|
-| **BACK-END SKILLS AND EXPERIENCE**                                                                 |
-|----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
+| **BACK END SKILLS AND EXPERIENCE**                                                                 |
+|                                                                                                    |
 | **MySQL**                  | **SQLite**                    | **JQuery**                            | 
 | **React State Management   | **HTTP/Ajax                   | **TypeScript**                        |
 | **DOM.JS**                 | **Unit Testing**              | **Node.JS**                           | 
