@@ -28,19 +28,19 @@ My background in security and access control management showcases my ability to 
 
 ## 💬 Let's Chat about: 
 
-|                            |                               |                                       |
+| FRONT END                  |                               |                                       |
 |----------------------------|-------------------------------|---------------------------------------|
-| **UI/UX Principles**       | **PostgreSQL Administration** |                                       |
-|                            | **Web Applications**          | **Application Testing**               |
-| **HTML5 Markup             | **Desktop Applications**      |                                       |
-|**CSS3 Markup**             |                               |                                       |
-| **JS Programming**         | **SaaS / PaaS**               |                                       |
-| **Python Programming**     | **Server Administration**     | **Project Management**                |
-| **Java Programming**       | **Flask Micro-Framework**     | **Figma Framework**                   |
-| **Data Structures-&-Algo** | **Pygame For GUI Programming**|                                       |
-| **React JS Projects**      | **/**                         |  **/**                                |
-| **Tailwind CSS Projects**  | **Linux Administration**      |                                       |
-|                            | **Gitbash commandline         |**Database-Management-Systems-Design** |
+| **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
+| **CSS Variables**          | **Web Applications**          | **Application Testing**               |
+| **HTML5 Markup             | **Desktop Applications**      | **CSS Box Model**                     |
+| **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
+| **CSS Grid**               | **ES6**                       | **Deployment**                        |
+| **Context API**            | **Python3**                   | **VS Code**                           |
+| **Express**                | **SaaS**                      | **Bootstrap**                         | 
+| **Server Administration**  | **Project Management**        | **Figma Framework**                   | 
+| **Java Programming**       | **Flask Micro-Framework**     | **Data Structures-&-Algo**            |      | **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
+| **Gitbash commandline**    | **React Router**              | **Redux**                             |
+| **Git CLI**                | **UI Principles**                |                                       |
 
 
 
