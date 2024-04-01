@@ -27,11 +27,11 @@ My background in security and access control management showcases my ability to 
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |                                                                                                    |
 | **BACK END SKILLS AND EXPERIENCE**                                                                 |
-|                                                                                                    |
+|----------------------------------------------------------------------------------------------------|
 | **MySQL**                  | **SQLite**                    | **JQuery**                            | 
 | **React State Management   | **HTTP/Ajax                   | **TypeScript**                        |
 | **DOM.JS**                 | **Unit Testing**              | **Node.JS**                           | 
-| **Next.JS**            | **Primality  Testing Algorithms** | **Tables**                            |  
+| **Next.JS**                | **Primality  Testing Algorithms** | **Tables**                        |  
 | **Cypress**                | **POSTMAN**                   | **SANITY**                            |
 | **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
 | **Object Oriented Programming** |  **Agile Project Management** | **Architecture**                 |
