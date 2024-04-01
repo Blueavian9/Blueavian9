@@ -34,8 +34,8 @@ My background in security and access control management showcases my ability to 
 | **Next.JS**                | **Primality  Testing Algorithms** | **Tables**                        |  
 | **Cypress**                | **POSTMAN**                   | **SANITY**                            |
 | **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
-| **Object Oriented Programming** |  **Agile Project Management** | **Architecture**                 |
-| **Web API's Data Persistence**  |  **Authentication**      | **Auth0 Security**                    |               |
+| **OOP**                    |  **Agile Project Management** | **Architecture**                      |
+| **WebAPI'sDataPersistence**|  **Authentication**           | **Auth0 Security**                    |               |
 
   
 - 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
