@@ -42,7 +42,7 @@ My background in security and access control management showcases my ability to 
 
 
 <h3 align="left">Connect</h3>
-<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><img align="center" src="https://rawgithubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><img align="center" src="https://rawgithubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cesar-Aguilar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
