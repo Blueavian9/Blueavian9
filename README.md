@@ -26,23 +26,34 @@ My background in security and access control management showcases my ability to 
 
 
 
-## 💬 Let's Chat about: 
-
-| FRONT END                  |                               |                                       |
-|----------------------------|-------------------------------|---------------------------------------|
+## 💬 Aks me about: 
+|----------------------------------------------------------------------------------------------------|
+| FRONT-END SKILLS AND EXPERIENCE                                                                    |  
+|----------------------------------------------------------------------------------------------------|
 | **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
-| **HTML5 Markup             | **Desktop Applications**      | **CSS Box Model**                     |
+| **HTML5 Markup**           | **Desktop Applications**      | **CSS Box Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
 | **CSS Grid**               | **ES6**                       | **Deployment**                        |
 | **Context API**            | **Python3**                   | **VS Code**                           |
 | **Express**                | **SaaS**                      | **Bootstrap**                         | 
 | **Server Administration**  | **Project Management**        | **Figma Framework**                   | 
-| **Java Programming**       | **Flask Micro-Framework**     | **Data Structures-&-Algo**            |      | **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
+| **Java Programming**       | **Flask Micro-Framework**     | **Responsive Web Design Principles**  | 
+| **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
 | **Gitbash commandline**    | **React Router**              | **Redux**                             |
-| **Git CLI**                | **UI Principles**                |                                       |
-
-
+| **Git CLI**                | **UI Principles**             | **Debugging**                         |
+|----------------------------------------------------------------------------------------------------|
+| **BACK-END SKILLS AND EXPERIENCE                           |                                       |
+|----------------------------------------------------------------------------------------------------|
+| **MySQL**                  | **SQLite**                    | **JQuery**                            | 
+| **React State Management   | **HTTP/Ajax                   | **TypeScript**                        |
+| **DOM.JS**                 | **Unit Testing**              | **Node.JS**                           | 
+| **Next.JS**            | **Primality  Testing Algorithms** | **Tables**                            |  
+| **Cypress**                | **POSTMAN**                   | **SANITY**                            |
+| **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
+| **Object Oriented Programming** |  **Agile Project Management** | **Architecture**                 |
+| **Web API's Data Persistence**  |  **Authentication**      | **Auth0 Security**                    |               |
+|----------------------------------------------------------------------------------------------------|
 
   
 - 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
