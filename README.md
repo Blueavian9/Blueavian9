@@ -27,7 +27,7 @@ My background in security and access control management showcases my ability to 
 
 
 ## 💬 Aks me about: 
-|----------------------------------------------------------------------------------------------------|
+
 | FRONT-END SKILLS AND EXPERIENCE                                                                    |  
 |----------------------------------------------------------------------------------------------------|
 | **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
@@ -43,7 +43,7 @@ My background in security and access control management showcases my ability to 
 | **Gitbash commandline**    | **React Router**              | **Redux**                             |
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |----------------------------------------------------------------------------------------------------|
-| **BACK-END SKILLS AND EXPERIENCE                           |                                       |
+| **BACK-END SKILLS AND EXPERIENCE**                                                                 |
 |----------------------------------------------------------------------------------------------------|
 | **MySQL**                  | **SQLite**                    | **JQuery**                            | 
 | **React State Management   | **HTTP/Ajax                   | **TypeScript**                        |
@@ -53,7 +53,6 @@ My background in security and access control management showcases my ability to 
 | **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
 | **Object Oriented Programming** |  **Agile Project Management** | **Architecture**                 |
 | **Web API's Data Persistence**  |  **Authentication**      | **Auth0 Security**                    |               |
-|----------------------------------------------------------------------------------------------------|
 
   
 - 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
