@@ -27,7 +27,7 @@ My background in security and access control management showcases my ability to 
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |                                                                                                    |
 | **BACK END SKILLS AND EXPERIENCE**                                                                 |
-|----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
 | **MySQL**                  | **SQLite**                    | **JQuery**                            | 
 | **React State Management   | **HTTP/Ajax                   | **TypeScript**                        |
 | **DOM.JS**                 | **Unit Testing**              | **Node.JS**                           | 
