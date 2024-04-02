@@ -25,8 +25,8 @@
       <div style="height: 10%; background-color: orange; border-radius: 50%; width: 16%; top: 65%; left: 42%; position: absolute;"></div>
     </div>
     <div style="font: bold 25px Helvetica, sans-serif; top: 165px; left: 127.5px; z-index: 1; color: #6a6969; position: absolute;">
-      <div style="font-weight: initial; top: 22.5px; left: 12px;">💜</div>
-      <p>I CSS</p>
+      <div style="font-weight: initial; top: 22.5px; left: 12px;"></div>
+      <p>Hello World!</p>
     </div> 
     <div style="width: 53%; height: 45%; background: linear-gradient(45deg, rgb(134, 133, 133) 0%, rgb(234, 231, 231) 25%, white 67%); border-radius: 80% 80% 100% 100%; top: 40%; left: 23.5%; position: absolute;">
       <div style="width: 50%; height: 45%; background-color: gray; top: 10%; left: 25%; border-radius: 0% 0% 100% 100%; opacity: 70%; position: absolute;"></div>
