@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Penguin Animation</title>
-</head>
-<body style="background: linear-gradient(45deg, rgb(118, 201, 255), rgb(247, 255, 222)); margin: 0; padding: 0; width: 100%; height: 100vh; overflow: hidden;">
-  <div style="width: 300px; height: 300px; background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255)); position: absolute; transform: skew(0deg, 44deg); z-index: 2; margin-top: 100px;"></div>
-  <div style="width: 300px; height: 300px; background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255)); position: absolute; z-index: 1; transform: rotate(45deg); left: 110px; top: 225px;"></div>
-  <div style="width: 200px; height: 200px; background-color: yellow; position: absolute; border-radius: 50%; top: -75px; right: -75px;"></div>
-  <div style="width: 300px; height: 300px; margin: auto; margin-top: 75px; z-index: 4; position: relative; transition: transform 1s ease-in-out 0ms;">
-    <div style="width: 50%; height: 45%; background: linear-gradient(45deg, gray, rgb(239, 240, 228)); border-radius: 70% 70% 65% 65%; top: 10%; left: 25%; z-index: 1; position: absolute;">
-      <div style="width: 60%; height: 70%; background-color: white; border-radius: 70% 70% 60% 60%; top: 15%; left: 5%; position: absolute;"></div>
-      <div style="width: 60%; height: 70%; background-color: white; border-radius: 70% 70% 60% 60%; top: 15%; right: 5%; position: absolute;"></div>
-      <div style="width: 90%; height: 70%; background-color: white; top: 25%; left: 5%; border-radius: 70% 70% 100% 100%; position: absolute;"></div>
-      <div style="width: 15%; height: 17%; background-color: black; top: 45%; left: 25%; border-radius: 50%; position: absolute;">
-        <div style="width: 150%; height: 100%; background-color: white; top: 25%; left: -23%; border-radius: 50%; position: absolute;"></div>
-      </div>
-      <div style="width: 15%; height: 17%; background-color: black; top: 45%; right: 25%; border-radius: 50%; position: absolute;">
-        <div style="width: 150%; height: 100%; background-color: white; top: 25%; left: -23%; border-radius: 50%; position: absolute;"></div>
-      </div>
-      <div style="width: 15%; height: 10%; background-color: pink; top: 65%; left: 15%; border-radius: 50%; position: absolute;"></div>
-      <div style="width: 15%; height: 10%; background-color: pink; top: 65%; right: 15%; border-radius: 50%; position: absolute;"></div>
-      <div style="height: 10%; background-color: orange; border-radius: 50%; width: 20%; top: 60%; left: 40%; position: absolute;"></div>
-      <div style="height: 10%; background-color: orange; border-radius: 50%; width: 16%; top: 65%; left: 42%; position: absolute;"></div>
-    </div>
-    <div style="font: bold 25px Helvetica, sans-serif; top: 165px; left: 127.5px; z-index: 1; color: #6a6969; position: absolute;">
-      <div style="font-weight: initial; top: 22.5px; left: 12px;"></div>
-      <p>Hello World!</p>
-    </div> 
-    <div style="width: 53%; height: 45%; background: linear-gradient(45deg, rgb(134, 133, 133) 0%, rgb(234, 231, 231) 25%, white 67%); border-radius: 80% 80% 100% 100%; top: 40%; left: 23.5%; position: absolute;">
-      <div style="width: 50%; height: 45%; background-color: gray; top: 10%; left: 25%; border-radius: 0% 0% 100% 100%; opacity: 70%; position: absolute;"></div>
-    </div>
-    <div style="width: 30%; height: 60%; background: linear-gradient(90deg, gray, rgb(209, 210, 199)); border-radius: 30% 30% 30% 120%; z-index: -1; top: 35%; left: 5%; transform-origin: top left; transform: rotate(130deg) scaleX(-1); animation: 3s linear infinite wave; position: absolute;"></div>
-    <div style="width: 30%; height: 60%; background: linear-gradient(90deg, gray, rgb(209, 210, 199)); border-radius: 30% 30% 30% 120%; z-index: -1; top: 0%; right: -5%; transform: rotate(-45deg); position: absolute;"></div>
-    <div style="width: 15%; height: 30%; background-color: orange; top: 85%; left: 25%; border-radius: 50%; z-index: -1; transform: rotate(80deg); position: absolute;"></div>
-    <div style="width: 15%; height: 30%; background-color: orange; top: 85%; right: 25%; border-radius: 50%; z-index: -1; transform: rotate(-80deg); position: absolute;"></div>
-  </div>
-  <div style="width: 100vw; height: 400px; background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255)); z-index: 3; position: absolute; margin-top: -58px;"></div>
-</body>
-</html>
+
 
 ## About this repository
 
