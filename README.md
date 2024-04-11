@@ -1,8 +1,6 @@
 
 
-## About this repository
-
-This repository contains ...
+## About Me:
 Hello, My Name is Cesar Aguilar 👋
  
 I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
