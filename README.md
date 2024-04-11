@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -6,7 +12,7 @@
 </head>
 
  ## About Me: 
-<style>
+
  <p style="font-family: 'Bungee Spice', sans-serif; font-weight: 400; font-style: normal;">
 Hello, My Name is Cesar Aguilar 👋
  
@@ -17,7 +23,6 @@ Building RESTful APIs, performing CRUD operations, and implementing efficient da
 Creating dynamic web applications with React, leveraging Axios for API interactions, and useState hooks for state management
 My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development, coupled with my diverse skill set and dedication to delivering high-quality solutions, makes me an ideal candidate for a software development role in the tech industry.
 </p>
- </style>
 
 
 ## 💬 Aks me about: 
