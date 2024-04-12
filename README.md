@@ -109,7 +109,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
-<!--
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -119,7 +119,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=decagondev&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="decagondev" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=decagondev&theme=dracula" alt="decagondev" /></p>
-**decagondev/decagondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**decagondev/decagondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 
