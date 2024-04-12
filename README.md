@@ -121,10 +121,15 @@ My background in security and access control management showcases my ability to 
 - 😄 I am excited to be part of a team that contributes on projects of great importance and would love to discuss any opportunities for further reconsideration. 
 
 - 🔭 I’m currently working on 3D Portfolio using tailwindcss, React class components, where i display multifple projects i have built during my Coding Bootcamp Journey ...
+  
 - 👯 I’m looking to collaborate and help out as much as possible i am dedicated, hard-working and believe that it is better to give than to recieve...
+  
 - 🤔 I’m looking for help with masterying my Algorithms and Data Structures to an Expert level based knowledge...
+  
 - 💬 Ask me about the projects that i have worked on and what kind of stuff I am building now as a Full-stack Software Engineer Graduate.
-- 👨‍💻  With 2+ years of real world hands-on experience at Bloom Institute of Technology and a proven track record of collaborating with teams to build cutting-edge applications, I am poised to make an immediate impact on your development team. 
+  
+- 👨‍💻  2+ years real world hands-on experience at Bloom Institute of Technology and a proven track record of collaborating with teams to build cutting-edge applications, I am poised to make an immediate impact on your development team.
+  
 - I'm currently learning Java
 
 - 🌱 I'm looking for help with getting experience / unpaid internship / non-profit / contribute
@@ -132,5 +137,5 @@ My background in security and access control management showcases my ability to 
 - ⚡ Fun facts: I am a dedicated, caring, and hardworking husband  Another fun fact is that ever since I can remember, I have always been fascinated by programming, dating back to the Myspace era.
 
 -  📝 through out my 7+ self-taught years, I have learned to fall in love with knowledge, and appreciate the History of A.I. and Technology in General.
--   
+  
 - I graduated with Academic Achievement Awards in Social Studies.
