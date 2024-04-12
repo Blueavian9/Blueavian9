@@ -52,8 +52,8 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <h3>Reach out to me via EMAIL || Linkedin:</h3>
 📧 📫  blueavian9@gmail.com 
 
-<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><img align="center" src="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+
 
 <p align="left"><a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="100" width="80" /></a>
 </p>
