@@ -10,15 +10,15 @@
 
 ## About Me: 
 
-**Hello, 👋 My Name is _Cesar Aguilar_**
+**Hello, 👋 my name is _Cesar Aguilar_**
  
 <p style="font-family: 'Bungee Spice', sans-serif; font-weight: 400; font-style: normal;">
-I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
+**I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
 
 Developing a secure, user-friendly Full-Stack Asylum Report Generator app using Auth0 and collaborating with cross-functional teams
 Building RESTful APIs, performing CRUD operations, and implementing efficient database schemas using Node, Express, and Knex
 Creating dynamic web applications with React, leveraging Axios for API interactions, and useState hooks for state management
-My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development, coupled with my diverse skill set and dedication to delivering high-quality solutions, makes me an ideal candidate for a software development role in the tech industry.
+My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development, coupled with my diverse skill set and dedication to delivering high-quality solutions, makes me an ideal candidate for a software development role in the tech industry.**
 </p>
 
 
