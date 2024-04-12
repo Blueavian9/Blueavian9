@@ -1,4 +1,4 @@
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png>
   <img alt="Tech" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png">
 </picture>
@@ -8,11 +8,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">
 </head>
 
- ## About Me: 
+## About Me: 
 
- <p style="font-family: 'Bungee Spice', sans-serif; font-weight: 400; font-style: normal;">
 Hello, My Name is Cesar Aguilar 👋
  
+<p style="font-family: 'Bungee Spice', sans-serif; font-weight: 400; font-style: normal;">
 I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
 
 Developing a secure, user-friendly Full-Stack Asylum Report Generator app using Auth0 and collaborating with cross-functional teams
@@ -48,7 +48,7 @@ My background in security and access control management showcases my ability to 
 | **Cypress**                | **POSTMAN**                   | **SANITY**                            |
 | **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
 | **OOP**                    |  **Agile Project Management** | **Architecture**                      |
-| **WebAPI'sDataPersistence**|  **Authentication**           | **Auth0 Security**                    |               |
+| **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               |
 
   
 - 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
