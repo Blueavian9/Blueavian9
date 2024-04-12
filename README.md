@@ -51,13 +51,14 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
   
 - 📫 ***Reach out to me at:*** blueavian9@gmail.com |
-- <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9"> <img src="path/to/linkedin">
+- <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9"><img src="path/to/linkedin"></a>
+<a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="100" width="80" />visits octodex.github.com</a>
   
 
 
 <h3 align="left"> Connect:</h3>
-<button style="font-size: 44px"> Click on Octocat for my Linkedin <i class="fa fa-linkedin-square"></i></button>
-<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Cesar-Aguilar-Linkedin" height="100" width="80" /></a>
+<button style="font-size: 44px"> Octocat <i class="fa fa-linkedin-square"></i></button>
+<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
