@@ -10,7 +10,7 @@
 
 ## About Me: 
 
-Hello, My Name is Cesar Aguilar 👋
+**Hello, 👋 My Name is _Cesar Aguilar_**
  
 <p style="font-family: 'Bungee Spice', sans-serif; font-weight: 400; font-style: normal;">
 I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology. My technical expertise includes:
