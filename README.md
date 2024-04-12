@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1590767187868-b8e9ece0974b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGlnZXJzfGVufDB8fDB8fHww.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png">
   <img alt="tiger" src="https://images.unsplash.com/photo-1590767187868-b8e9ece0974b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGlnZXJzfGVufDB8fDB8fHww.png">
 </picture>
 
