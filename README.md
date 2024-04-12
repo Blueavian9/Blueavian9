@@ -14,7 +14,7 @@
 
 ***I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology.***
   
-***My technical expertise includes***
+***My technical expertise includes:***
 
 ***Developing a secure, user-friendly Full-Stack Asylum Report Generator app using Auth0 and collaborating with cross-functional teams
 Building RESTful APIs, performing CRUD operations, and implementing efficient database schemas using Node, Express, and Knex Creating dynamic web applications with React, leveraging Axios for API interactions, and useState hooks for state management My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development 
