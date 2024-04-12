@@ -35,7 +35,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 | **Server Administration**  | **Project Management**        | **Figma Framework**                   | 
 | **Java Programming**       | **Flask Micro-Framework**     | **Responsive Web Design Principles**  | 
 | **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
-| **Gitbash commandline**    | **React Router**              | **Redux**                             |
+| **Git Bash CommandLine**    | **React Router**              | **Redux**                             |
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |                                                                                                    |
 | **BACK END SKILLS AND EXPERIENCE**                                                                 |
@@ -50,7 +50,9 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 | **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               |
 
   
-- 📫 Reach out to me at: blueavian9@gmail.com | https:// Linkedin.com/in/cesar-aguilar-blueavian9
+- 📫 ***Reach out to me at:*** blueavian9@gmail.com |
+- <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9"> <img src="path/to/linkedin">
+  
 
 
 <h3 align="left"> Connect:</h3>
