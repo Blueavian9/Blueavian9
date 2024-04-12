@@ -57,10 +57,10 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
 
 <p align="left"><a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="50" width="50" /></a>
-  
-<button><i class="fa fa-linkedin-square" alt="Click on Octocat for Easter Egg"></i></button>
 </p>
   
+<button><i class="fa fa-linkedin-square" alt="Click on Octocat for Easter Egg"></i></button>
+<p>Click on Octocat</p>
 
 <h3 align="left">Connect:</h3>
 
