@@ -1,4 +1,7 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1590767187868-b8e9ece0974b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGlnZXJzfGVufDB8fDB8fHww.png">
+  <img alt="tiger" src="https://images.unsplash.com/photo-1590767187868-b8e9ece0974b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGlnZXJzfGVufDB8fDB8fHww.png">
+</picture>
 
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,7 +56,7 @@ My background in security and access control management showcases my ability to 
 
 
 <h3 align="left"> Connect:</h3>
-<button style="font-size: 44px"> Click on Octo-cat for my Linkedin <i class="fa fa-linkedin-square"></i></button>
+<button style="font-size: 44px"> Click on Octocat for my Linkedin <i class="fa fa-linkedin-square"></i></button>
 <p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Cesar-Aguilar-Linkedin" height="100" width="80" /></a>
 </p>
 
