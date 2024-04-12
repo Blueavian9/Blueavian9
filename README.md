@@ -2,14 +2,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png" class="center">
   <img alt="Tech" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png">
 </picture>
-<style>
+<styles>
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%; 
   }
-</style>
+</styles>
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
