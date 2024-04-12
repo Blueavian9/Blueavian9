@@ -56,9 +56,8 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"></a>
 </p>
 
-<h3 align="left"> Connect:</h3>
-<button style="font-size: 44px"> Octocat <i class="fa fa-linkedin-square"></i></button>
-
+<h3 align="left">Connect:</h3>
+<button style="font-size: 44px"><i class="fa fa-linkedin-square"></i></button>
 <h3 align="left">Languages and Tools:</h3>
 <p>
  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="50px" alt="pycharm" />
