@@ -49,11 +49,10 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 | **OOP**                    |  **Agile Project Management** | **Architecture**                      |
 | **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               |
 
-<h3>Reach out to me via EMAIL || Linkedin:</h3>
+<h3>Reach out to me: </h3>
 📧 📫  blueavian9@gmail.com 
 
-<i class="fa-brands fa-linkedin"></i>
-<a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"></a>
+<p align="left"><a href=""><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
 
 
 <p align="left"><a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="100" width="80" /></a>
