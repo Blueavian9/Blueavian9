@@ -114,12 +114,12 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=decagondev&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="decagondev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blueavian9&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="blueavian9" /></p>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=decagondev&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="decagondev" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueavian9&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="blueavian9" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=decagondev&theme=dracula" alt="decagondev" /></p>
-**decagondev/decagondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blueavian9&theme=dracula" alt="blueavian9" /></p>
+**blueavian9/blueavian9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 
