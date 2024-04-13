@@ -28,7 +28,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 |----------------------------------------------------------------------------------------------------|
 | **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
-| **HTML5 Markup**           | **Desktop Applications**      | **CSS Box Model**                     |
+| **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
 | **CSS Grid**               | **ES6**                       | **Deployment**                        |
 | **Context API**            | **Python3**                   | **VS Code**                           |
