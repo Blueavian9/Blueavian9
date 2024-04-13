@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png">
   <img alt="Comp" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaHxlbnwwfHwwfHx8MA%3D%3D.png">
 </picture>
+
 <!--<head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,7 +36,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 | **Server Administration**  | **Project Management**        | **Figma Framework**                   | 
 | **Java Programming**       | **Flask Micro-Framework**     | **Responsive Web Design Principles**  | 
 | **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
-| **Git Bash CommandLine**    | **React Router**              | **Redux**                             |
+| **Git Bash CommandLine**    | **React Router**              | **Redux**                            |
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |                                                                                                    |
 | **BACK END SKILLS AND EXPERIENCE**                                                                 |
@@ -47,10 +48,9 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 | **Cypress**                | **POSTMAN**                   | **SANITY**                            |
 | **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
 | **OOP**                    |  **Agile Project Management** | **Architecture**                      |
-| **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               |
+| **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               
 
-<h3>Reach out to me: </h3>
-📧 📫  blueavian9@gmail.com 
+
 
 <p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
 </p>
@@ -144,3 +144,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 -  📝 through out my 7+ self-taught years, I have learned to fall in love with knowledge, and appreciate the History of A.I. and Technology in General.
   
 - I graduated with Academic Achievement Awards in Social Studies.
+
+- 📧 I have hyper intelligent awareness and like challenges
+
+- 📫 sooner or later i solve most problem that i come across 
