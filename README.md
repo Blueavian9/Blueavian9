@@ -119,7 +119,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blueavian9&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="blueavian9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blueavian9&theme=dracula" alt="blueavian9" /></p>
-***blueavian9/blueavian9 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.*** 
+***blueavian9/blueavian9 is a*** ✨ _special_ ✨ ***repository because its `README.md` (this file) appears on your GitHub profile.*** 
 
 
 
