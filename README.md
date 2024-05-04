@@ -90,6 +90,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="50px" alt="python" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" width="50px" alt="typescript" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="50px" alt="vscode" />
+  <img align="center" src="https://www.flaticon.com/free-icons/apig" width="50px" alt="API" />
 </p>
 
 
