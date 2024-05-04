@@ -91,7 +91,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" width="50px" alt="typescript" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="50px" alt="vscode" />
   <img align="center" src="https://img.icons8.com/clouds/100/api.png" width="50" height="50" alt="api"/> 
-  <img align="center" src="https://icons8.com/icon/aNnXVGkz2Uuu/full-stack" width="50" height="50" alt="Fullstack"/> 
+  <img align="center" src="https://icons8.com/icon/aNnXVGkz2Uuu/full-stack.png" width="50" height="50" alt="fullstack"/> 
 </p>
 
 
