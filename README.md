@@ -90,10 +90,11 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width="70px" alt="java" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="50px" alt="javascript" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="50px" alt="python" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" width="50px" alt="typescript" />
 </p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="50px" alt="vscode" />
+<p>
+  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" width="50px" alt="typescript" />
+  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="50px" alt="vscode" />
   <img align="center" src="https://img.icons8.com/clouds/100/api.png" width="50" height="50" alt="api"/> 
   <img align="center" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" width="50" height="50" alt="external-full-stack-computer-programming-flaticons-flat-flat-icons-2"/>
   <img align="center" src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Debugging-cyber-security-flat-icons-vectorslab.png"  width="50" height="50" alt="external-Debugging-cyber-security-flat-icons-vectorslab"/>
