@@ -59,7 +59,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <button><i class="fa fa-linkedin-square" alt="Click on Octocat for Easter Egg"></i></button>
 <p>Click on Octocat</p>
 
-<h3 align="left">lets Chat i'll buy you a <img width="50" height="50" src="https://img.icons8.com/stickers/100/coffee-to-go.png" alt="coffee-to-go"/>:</h3>
+<h3 align="left">Let's Chat i'll buy you Coffee<img width="50" height="50" src="https://img.icons8.com/stickers/100/coffee-to-go.png" alt="coffee-to-go"/>:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
