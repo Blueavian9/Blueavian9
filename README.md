@@ -100,8 +100,12 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Debugging-cyber-security-flat-icons-vectorslab.png"  width="50" height="50" alt="external-Debugging-cyber-security-flat-icons-vectorslab"/>
   <img align="center" src="https://img.icons8.com/dusk/64/bot--v1.png" width="50" height="50"alt="bot--v1"/>
   <img align="center" src="https://img.icons8.com/stickers/100/creativity-and-resourcefulness.png" width="50" height="50" alt="creativity-and-resourcefulness"/>
-  <img align="center" src="https://img.icons8.com/stickers/100/slack-new.png" width="50" height="50" alt="slack-new"/>
 </p>
+  <p>
+    <img align="center" src="https://img.icons8.com/stickers/100/slack-new.png" width="50" height="50" alt="slack-new"/>
+    <img align="center" src="https://img.icons8.com/cute-clipart/64/zoom.png" width="50" height="50" alt="zoom"/>
+    
+  </p>
 
 
 
