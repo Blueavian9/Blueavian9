@@ -52,7 +52,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="linkedin"/></a>
 </p>
-  
+ <p>Click on Linkedin icon</p> 
   
 
 
