@@ -76,7 +76,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/heroku.svg" width="50px" alt="heroku" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg" width="50px" alt="mysql" />
-  <img align="center" src="https://img.icons8.com/ios/100/sqlite.png" width="50" height="50" alt="sqlite" style="color: white";/>
+  <img align="center" src="https://img.icons8.com/ios/50/sqlite.png" width="50" height="50" alt="sqlite"/>
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg" width="50px" alt="npm" />
   <img align="center" src="https://img.icons8.com/color/48/git.png" width="50" height="50" alt="git"/>
 </p>
