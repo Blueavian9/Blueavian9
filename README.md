@@ -79,6 +79,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://img.icons8.com/ios/50/sqlite.png" width="50" height="50" alt="sqlite"/>
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg" width="50px" alt="npm" />
   <img align="center" src="https://img.icons8.com/color/48/git.png" width="50" height="50" alt="git"/>
+  <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-database-100-most-used-icons-flaticons-lineal-color-flat-icons.png" width="50" height="50" alt="external-database-100-most-used-icons-flaticons-lineal-color-flat-icons"/>
 </p>
 
 <p>
