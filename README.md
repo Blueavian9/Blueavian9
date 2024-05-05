@@ -23,7 +23,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
-| <a id="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a id="PSQL" href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Accessibility">**CSS Accesibility**</a>                  |
+| <a id="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a id="PSQL" href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a>                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
 | **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
@@ -100,6 +100,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Debugging-cyber-security-flat-icons-vectorslab.png"  width="50" height="50" alt="external-Debugging-cyber-security-flat-icons-vectorslab"/>
   <img align="center" src="https://img.icons8.com/dusk/64/bot--v1.png" width="50" height="50"alt="bot--v1"/>
   <img align="center" src="https://img.icons8.com/stickers/100/creativity-and-resourcefulness.png" width="50" height="50" alt="creativity-and-resourcefulness"/>
+  <img align="center" src="https://img.icons8.com/stickers/100/slack-new.png" width="50" height="50" alt="slack-new"/>
 </p>
 
 
