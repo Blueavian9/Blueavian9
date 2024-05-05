@@ -5,8 +5,6 @@
 </picture>
 </p> 
 
-<iframe width="420" height="345" src=https://www.youtube.com/watch?v=YN1hL9cn7s0"></iframe>
-
 
 ## About Me: 
 
@@ -51,7 +49,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
 
 
-<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+<p align="left"><img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="linkedin"/><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank"></a>
 </p>
 
 
