@@ -90,7 +90,6 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width="70px" alt="java" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="50px" alt="javascript" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="50px" alt="python" />
-  <img align="center" src="https://img.icons8.com/stickers/100/creativity-and-resourcefulness.png" width="50" height="50" alt="creativity-and-resourcefulness"/>
 </p>
 
 <p>
@@ -100,6 +99,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <img align="center" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" width="50" height="50" alt="external-full-stack-computer-programming-flaticons-flat-flat-icons-2"/>
   <img align="center" src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Debugging-cyber-security-flat-icons-vectorslab.png"  width="50" height="50" alt="external-Debugging-cyber-security-flat-icons-vectorslab"/>
   <img align="center" src="https://img.icons8.com/dusk/64/bot--v1.png" width="50" height="50"alt="bot--v1"/>
+  <img align="center" src="https://img.icons8.com/stickers/100/creativity-and-resourcefulness.png" width="50" height="50" alt="creativity-and-resourcefulness"/>
 </p>
 
 
