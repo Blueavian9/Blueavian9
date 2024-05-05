@@ -23,7 +23,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
-| **UI/UX Principles**       | **PostgreSQL Administration** | **CSS Accesibility**                  |
+| <a id="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a id="PSQL" href="" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="" target="_blank" alt="CSS-Accessibility">**CSS Accesibility**</a>                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
 | **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
