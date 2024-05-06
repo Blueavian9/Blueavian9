@@ -34,9 +34,11 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 <div align="center">
     <h2 align="center" class="section-heading">👾 Responsive Web Design + UI + UX 👾</h2>
-    <p>lorem ipsum  isum lorem </p>
-    <!-- Replace with your 3D/VR/AR skills -->
+    <!-- <p>lorem ipsum  isum lorem </p> -->
+   
+    img    
     <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+    
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <!-- Add more badges similarly -->
 </div>
@@ -828,7 +830,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
     
   </p>
 
-
+<!-- Apply BADGES HERE borrowed from `https://dev.to/envoy_/150-badges-for-github-pnk` -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
