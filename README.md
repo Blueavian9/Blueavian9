@@ -17,10 +17,7 @@ With experience in security and access control management, I am adept at working
 
 I am excited to leverage than 2 years and counting of hands-on  real world experience and a proven track record of collaborating with non-profit startups and teams to the development of innovative, impactful applications in the tech industry. I enjoy a good challenge of building breaking and finiship projects under tight deadlines and growing as professional Developer Reading anything i can get my hands on. I enjoy spending time with my wife friends and family.</p>
 </div>
-<!--
-3. Enable Easy Connections
-Use badges for linking to your LinkedIn, portfolio, or any other professional websites.
--->
+
 
 <div align="center">
     <!-- Replace href with your links -->
@@ -29,9 +26,6 @@ Use badges for linking to your LinkedIn, portfolio, or any other professional we
     </a>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 
 <div align="center">
     <!-- Replace with your skills -->
