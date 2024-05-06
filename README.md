@@ -27,7 +27,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
-
+<!-- CONNECT WITH ME -->
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
@@ -44,6 +44,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 
+    
+<!-- GITHUB COMMITS -->
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
@@ -51,6 +53,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
+
+<!-- PROGRAMMING LANGUAGES -->
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
@@ -63,6 +67,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 
+    
+<!-- CLOUD TECHNOLOGIES --> 
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
@@ -76,6 +82,9 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
 </div>
 
+
+
+<!-- FRAMEWORKS -->
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
@@ -94,6 +103,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
 </div>
 
+
+<!-- 3D MODELING + AV + AR -->
 <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
 <div align="center">
@@ -109,6 +120,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
 </div>
 
+
+<!-- GITHUB STATS -->
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
@@ -130,6 +143,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
+<!-- stats-->
 ⚡ Stats ⚡
 
 streak stats readme stats
@@ -739,19 +753,19 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 
 
 
-<p align="left"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank">
+<p align="center"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="linkedin"/></a>
 </p>
- <p>Click on Linkedin icon</p> 
+ <p align-text="center">Click on Linkedin icon</p> 
   
 
 
 <button>
-<p align="left">
+<p align="center">
   <a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="50" width="50" /></a>
 </p>
   
-<p>Click on Octocat</p>
+<p align-text="left">Click on Octocat</p>
 </button>
 
 <h3 align="left">Let's Chat over a cup of Coffee. <img align="center" src="https://img.icons8.com/stickers/100/coffee-maker.png" width="50" height="50" alt="coffee-maker"/></h3>
