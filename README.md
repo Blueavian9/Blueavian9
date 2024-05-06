@@ -27,34 +27,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</div> 
-
-
-<div align="center">
-    <h2 align="center" class="section-heading">👾 Responsive Web Design + UI + UX 👾</h2>
-    <!-- <p>lorem ipsum  isum lorem </p> -->
-   
-    img    
-    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-    
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-    <!-- Add more badges similarly -->
-</div>
-
-
-
-<div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines="Hey..+I'm+Cesar+Aguilar;+and+This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
-</div>
-
-<div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
-</div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
