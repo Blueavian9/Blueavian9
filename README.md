@@ -30,7 +30,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div> -->
-    <!-- Add more badges similarly -->
 
 
 <div align="center">
