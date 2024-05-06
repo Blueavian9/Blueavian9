@@ -33,10 +33,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 
 <div align="center">
-   	[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-</div>
-
-<div align="center">
     <h2 align="center" class="section-heading">👾 Responsive Web Design + UI + UX 👾</h2>
     <p>lorem ipsum  isum lorem </p>
     <!-- Replace with your 3D/VR/AR skills -->
@@ -161,71 +157,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
  </table>
 </div>
 
-Top comments (8)
-
-Subscribe
-pic
-Add to the discussion
- 
- 
-ooosys profile image
-oOosys
-•
-Jan 9
-
-Hmmm ... you are encouraging to use external URL for animated SVG and to make the site unnecessary heavy in size. This might be of advantage from the perspective of companies which profit is based on getting attention at any cost ... but from the perspective of what I understand github is about it is abuse of the storage space ... making a github profile a profile of a voluntary soldier actively engaging in the war for attention.
-
-
-5
- likes
-Like
-Reply
- 
- 
-n1c01a5 profile image
-Wagner Nicolas
-•
-Jan 10
-
-Here is mine :
-
-github.com/n1c01a5
-
-Don't hesitate to follow me !
-
-
-2
- likes
-Like
-Reply
- 
- 
-random_ti profile image
-Random
-•
-Jan 9
-
-Great Tutorial . Thanks for sharing it👌
-GitHub logo taqui-786 / taqui-786
-
-
-
-A passionate software developer and tech Blog writer from India
-
-🔭 I’m currently working on a Nexjs Projects
-
-🌱 I’m currently learning C++,Typescript and Java
-
-📚 Write's Blogs at Dev.to and Hashnode
-
-💬 Ask me about Node.js, React, Firebase, MongoDB... or anything here
-
-⚡ Fun fact World first developer was a women
-
-   
-⚒️ Languages-Frameworks-Tools ⚒️
-
- 
 
 ⚡ Stats ⚡
 
@@ -235,70 +166,10 @@ contribution graph
 
 
 
-View on GitHub
-
-
-
-3
- likes
-Like
-Reply
- 
- 
-samuel2935 profile image
-Samuel
-•
-Jan 11
-
-Helpful
-
-
-2
- likes
-Like
-Reply
- 
- 
-lymah profile image
-Lymah
-•
-Jan 9
-
-Thanks for sharing.
-
-
-2
- likes
-Like
-Reply
- 
- 
-m__mdy__m profile image
-mahdi
-•
-Jan 10
-
-please checkOut my profile github
-
-m-mdy-m (Mahdi) · GitHub
-Junior web developer. m-mdy-m has 41 repositories available. Follow their code on GitHub.
-
-github.com
-
-1
- like
-Like
-Reply
- 
- 
-dev_kiran profile image
-Kiran Naragund
-•
-Jan 8
 
 Checkout my profile:
 
-GitHub logo Kiran1689 / kiran1689
+GitHub logo blueavian9 / blueavian9
 Github readme profile. Feel free to fork and use the template.
 Kiran1689 Banner Image
 
@@ -332,7 +203,7 @@ Sᴛʀᴇᴀᴋ Sᴛᴀᴛs
 Streak Stats
 
 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ
-Awesome-Dev-Portfolios
+blueavian9/asylum-rg-fe-starter
 
 Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs
 Top Repo
@@ -343,137 +214,21 @@ Top Repo
 
 
 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
-linkedin kirannaragund197@gmail.com kiran_a_n kiran__a__n Twitter
-Buy Me A Coffee
+linkedin blueavian9@gmail.com 
+Let's Chat:
 
 
 
 
 
-View on GitHub
+View my GitHub
 
-
-
-2
- likes
-Like
-Reply
- 
- 
-sammy6378 profile image
-Samuel Mwangi N
-•
-Mar 17
-
-Nice work done
-
-
-1
- like
-Like
-Reply
-Some comments have been hidden by the post's author - find out more
-
-Code of Conduct • Report abuse
-profile
-Sentry
-PROMOTED
-
-Laravel Sentry
-
-Laravel Error Monitoring with Complete Stack Traces 🚨
-See local variables in the stack for prod errors, just like in your dev environment. Explore the full source code context with frame to function data. Filter and group Laravel exceptions intuitively to eliminate noise.
-
-Try Sentry
-
-Read next
-ssukhpinder profile image
-Day 29 of 30-Day .NET Challenge: Generics & Custom Interfaces
-Sukhpinder Singh - Apr 19
-
-mikeyoung44 profile image
-HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances
-Mike Young - Apr 23
-
-jrtilak profile image
-Introducing LazyKit for JavaScript & TypeScript
-Tilak Thapa - Apr 22
-
-iamspathan profile image
-What is a 400 Bad Request?
-Sohail Pathan - Apr 23
-
-
-Zane
-Follow
-Devops Engineer | Software Engineering Specialist @Accenture
-LOCATION
-Melbourne
-JOINED
-Jan 8, 2024
-More from Zane
-Rust vs. Go: The benchmark
-#webdev #programming #rust #go
-Terminal Style CV Using GitHub Pages
-#webdev #javascript #programming #tutorial
-Embracing Kubernetes: The Future of Containerized Applications
-#webdev #programming #devops #kubernetes
-profile
-AWS
-PROMOTED
-
-Build On AWS Stream
-
-A data pipeline of helpful info
-Fluent in SQL? This show’s for you.
-
-Do you have questions about building efficient data architectures, navigating data virtualization issues, or other common challenges? Get answers live from experts.
-
-Learn More
-Cover image for Creating an Engaging GitHub Profile: A Step-by-Step Guide
-Zane
-Zane
-Posted on Jan 8 • Updated on Jan 14
-
-
-48
-
-2
-
-3
-
-3
-
-4
-Creating an Engaging GitHub Profile: A Step-by-Step Guide
-#
-tutorial
-#
-webdev
-#
-beginners
-#
-javascript
-Crafting a GitHub profile that stands out requires a blend of technical showcase and personal branding. Here's how you can create a unique and engaging GitHub profile, inspired by dynamic and detailed examples.
-
-1. Start with a Dynamic Header
-Begin your profile with an eye-catching header. You can use a typing effect SVG to make an animated greeting:
-
-GIFTerminal GH GIF
-
-Code Snippet:
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
-2. Adding a Dynamic GIF
-Add a dynamic GIF to your GitHub profile for a lively header:
 
-GIFTerminal GH GIF
-Choose or Create a GIF: Find a GIF that represents you or your work. It could be a cool animation related to coding, a snippet of your projects, or anything that adds personality to your profile.
-
-Add the GIF to Your README: Use the following HTML snippet to embed the GIF into your profile README. Replace the src attribute with the URL of your chosen GIF.
 <div align="center">
     <p>
         <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
