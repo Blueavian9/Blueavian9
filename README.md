@@ -6,13 +6,6 @@
 ## About Me: 
 
 
-2. Adding a Dynamic GIF
-Add a dynamic GIF to your GitHub profile for a lively header:
-
-GIFTerminal GH GIF
-Choose or Create a GIF: Find a GIF that represents you or your work. It could be a cool animation related to coding, a snippet of your projects, or anything that adds personality to your profile.
-
-Add the GIF to Your README: Use the following HTML snippet to embed the GIF into your profile README. Replace the src attribute with the URL of your chosen GIF.
 <div align="center">
     <p>
         <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/cat.gif?raw=true" alt="cat.gif" />
