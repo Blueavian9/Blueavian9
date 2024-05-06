@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="cat.gif">
-</p>
 
-
-## About Me: 
 
 
 <div align="center">
@@ -11,14 +6,9 @@
         <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/cat.gif?raw=true" alt="cat.gif" />
     </p>
 </div>
-This step will create an eye-catching header with your chosen GIF centered on your GitHub profile page, making it more engaging and visually appealing to visitors. Remember to ensure your GIF's size and content are appropriate and professional for your GitHub profile.
 
-2. Introduce Yourself
-Create a section about yourself, detailing your role, expertise, and a bit about your interests.
+## About Me: 
 
-Image description
-
-Code snippet:
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
