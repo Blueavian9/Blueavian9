@@ -9,7 +9,13 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineer specializing in Fullstack Developnent. I enjoy Learning Reading anything i can get my hands on that is of good benefit and eating lots of food].</p>
+    <p>I'm a Software Engineer specializing in Fullstack Developnent. I am a dedicated Full-Stack Software Developer with a passion for creating secure and dynamic web applications. With 2+ years of experience at Bloom Institute of Technology plus 5 years as a self-taught, I have developed a strong expertise in building robust solutions using technologies such as React, Node.js, Express, and Knex.
+
+my notable achievements include developing a secure, user-friendly Full-Stack Asylum Report Generator app utilizing Auth0 for authentication, and collaborating with cross-functional teams to ensure seamless integration. I can also demonstrate proficiency in building RESTful APIs, performing CRUD operations, and implementing efficient database schemas.
+
+With experience in security and access control management, I am adept at working effectively in fast-paced environments while maintaining a strong focus on safety and compliance. my diverse skill set and dedication to delivering high-quality products and solutions make me a useful asset to any software development team.
+
+I am excited to leverage than 2 years and counting of hands-on  real world experience and a proven track record of collaborating with non-profit startups and teams to the development of innovative, impactful applications in the tech industry. I enjoy a good challenge of building breaking and finiship projects under tight deadlines and growing as professional Developer Reading anything i can get my hands on. I enjoy spending time with my wife friends and family.</p>
 </div>
 <!--
 3. Enable Easy Connections
