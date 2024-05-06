@@ -26,18 +26,16 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     </a>
 </div>
 
-
+<!--
 <div align="center">
-    <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div> -->
     <!-- Add more badges similarly -->
-</div>
 
+<!--
 <div align="center">
-    <!-- Replace with your cloud tech skills -->
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <!-- Add more badges similarly -->
-</div>
+</div> -->
 
 <div align="center">
     <!-- Replace with your framework skills -->
