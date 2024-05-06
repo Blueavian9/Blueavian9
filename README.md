@@ -155,6 +155,7 @@ contribution graph
 Checkout my profile:
 
 GitHub logo blueavian9 / blueavian9
+
 Github readme profile. Feel free to fork and use the template.
 blueavian9 Banner Image
 
@@ -387,30 +388,21 @@ Below is the full source code for creating a dynamic and engaging GitHub profile
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Cesar's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Cesar's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueavian9&theme=github_dark&utcOffset=10" alt="Cesar's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
 
-<strong>Hello, 👋 my name is Cesar Aguilar<strong>
-
-***I am a results-driven Front End Engineer with 2+ years of experience building robust web applications at Bloom Institute of Technology.***
-  
-***My technical expertise includes:***
-
-***Developing a secure, user-friendly Full-Stack Asylum Report Generator app using Auth0 and collaborating with cross-functional teams
-Building RESTful APIs, performing CRUD operations, and implementing efficient database schemas using Node, Express, and Knex Creating dynamic web applications with React, leveraging Axios for API interactions, and useState hooks for state management My background in security and access control management showcases my ability to work effectively in fast-paced environments while maintaining a strong focus on safety and compliance. My passion for web development 
-coupled with my diverse skill set and dedication to delivering high-quality solutions, makes me an ideal candidate for a software development role in the tech industry.***
 
 
 ## 💬 Aks me about: 
