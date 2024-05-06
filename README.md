@@ -40,7 +40,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     
 <!-- GITHUB COMMITS -->
 <div align="center">
-  <h2>🚀 Github Commits</h2>
+  <h2>🚀 Github Commits 🚀</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
@@ -48,7 +48,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 
 <!-- PROGRAMMING LANGUAGES -->
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<h2 align="center" class="section-heading"> Programming Languages 💻</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -63,7 +63,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     
 <!-- CLOUD TECHNOLOGIES --> 
 </div>
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<h2 align="center" class="section-heading"> Cloud Technologies ☁️</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -78,7 +78,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 
 <!-- FRAMEWORKS -->
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<h2 align="center" class="section-heading">🔧 Frameworks 🔧</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -89,7 +89,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+<!--   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/> -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -97,8 +97,11 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
+<h2 align="center" class="section-heading">
 <!-- 3D MODELING + AV + AR -->
-<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+    👾Responsive Web Design👾
+</h2>
+    <!--3D Modeling + VR + AR --> 
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
