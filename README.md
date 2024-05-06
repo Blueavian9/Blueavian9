@@ -32,10 +32,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div> -->
     <!-- Add more badges similarly -->
 
-<!--
-<div align="center">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</div> -->
 
 <div align="center">
     <!-- Replace with your framework skills -->
