@@ -7,21 +7,20 @@
     </p>
 </div>
 
-## About Me: 
-
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineer specializing in Fullstack Developnent. I enjoy Learning Reading anything i can get my hands on that is of good benefit and eating lots of food].</p>
 </div>
+<!--
 3. Enable Easy Connections
 Use badges for linking to your LinkedIn, portfolio, or any other professional websites.
-
+-->
 Image description
 
 Code snippet:
 <div align="center">
     <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+    <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
