@@ -15,7 +15,7 @@ Choose or Create a GIF: Find a GIF that represents you or your work. It could be
 Add the GIF to Your README: Use the following HTML snippet to embed the GIF into your profile README. Replace the src attribute with the URL of your chosen GIF.
 <div align="center">
     <p>
-        <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/cat.gif?raw=true" alt="cat.gif" />
     </p>
 </div>
 This step will create an eye-catching header with your chosen GIF centered on your GitHub profile page, making it more engaging and visually appealing to visitors. Remember to ensure your GIF's size and content are appropriate and professional for your GitHub profile.
