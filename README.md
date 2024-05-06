@@ -104,7 +104,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     <!--3D Modeling + VR + AR --> 
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
 
-
+<a href="https://www.freecodecamp.org/fccacd6a8f9-f669-47ef-8b0e-87a7592ade1c"><img src="https://cdn.freecodecamp.org/platform/english/images/quincy-larson-signature.svg"" width="50px" height="50px"/></a>
 <!--
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
