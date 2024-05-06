@@ -236,25 +236,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Cesar's Contribution Streak"/></td>
-    </tr>
- </table>
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueavian9&theme=github_dark&utcOffset=10" alt="Cesar's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueavian9&theme=github_dark" alt="Cesar's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
 
 
 
@@ -262,7 +244,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
-| <a id="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a id="PSQL" href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a>                  |
+| <a class="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a class="PSQL" href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a>                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
 | **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
