@@ -21,9 +21,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 3. Enable Easy Connections
 Use badges for linking to your LinkedIn, portfolio, or any other professional websites.
 -->
-Image description
 
-Code snippet:
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/">
