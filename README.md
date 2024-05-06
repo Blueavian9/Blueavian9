@@ -1,45 +1,10 @@
-<p align="center">  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cat.gif">
-  <img alt="Cat" src="cat.gif"> 
-</picture>
-</p> 
+<p align="center">
+  <img src="cat.gif">
+</p>
 
 
 ## About Me: 
 
-Cover image for Creating an Engaging GitHub Profile: A Step-by-Step Guide
-Zane
-Zane
-Posted on Jan 8 • Updated on Jan 14
-
-
-48
-
-2
-
-3
-
-3
-
-4
-Creating an Engaging GitHub Profile: A Step-by-Step Guide
-#
-tutorial
-#
-webdev
-#
-beginners
-#
-javascript
-Crafting a GitHub profile that stands out requires a blend of technical showcase and personal branding. Here's how you can create a unique and engaging GitHub profile, inspired by dynamic and detailed examples.
-
-1. Start with a Dynamic Header
-Begin your profile with an eye-catching header. You can use a typing effect SVG to make an animated greeting:
-
-GIFTerminal GH GIF
-
-Code Snippet:
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
