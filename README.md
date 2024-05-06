@@ -41,12 +41,10 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     <!-- Add more badges similarly -->
 </div>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github.com/Blueavian9&theme=github_dark" alt="Cesar Aguilar's GitHub Stats"/>
-</div>
+
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cesar Aguilar;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cesar+Aguilar;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
