@@ -28,54 +28,29 @@ Use badges for linking to your LinkedIn, portfolio, or any other professional we
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
-4. Visualize Your Commit History
-Add a GitHub contributions snake animation to visualize your daily activity.
 
-GIFImage description
-
-Code snippet:
 <div align="center">
     <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
-5. List Your Programming Languages
-Showcase the languages you are proficient in with badges.
 
-Image description
-
-Code snippet:
 <div align="center">
     <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
-6. Highlight Your Experience with Cloud Technologies
-Detail your knowledge in cloud technologies with relevant badges.
 
-Image description
-
-Code snippet:
 <div align="center">
     <!-- Replace with your cloud tech skills -->
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <!-- Add more badges similarly -->
 </div>
-7. Feature Your Framework Proficiency
-Showcase the frameworks you're skilled at.
 
-Image description
-
-Code Snippet:
 <div align="center">
     <!-- Replace with your framework skills -->
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
-8. Showcase Your 3D Modeling, VR, and AR Expertise
-Express your skills in the immersive technology space with a dedicated section for 3D Modeling, Virtual Reality, and Augmented Reality.
 
-Image description
-
-Code Snippet:
 <div align="center">
     <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
     <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
