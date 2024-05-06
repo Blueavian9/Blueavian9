@@ -756,7 +756,7 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
 <p align="center"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="linkedin"/></a>
 </p>
- <p align-text="center">Click on Linkedin icon</p> 
+ <p align-text="center"><strong>Click on Linkedin icon</strong></p> 
   
 
 
@@ -765,12 +765,13 @@ coupled with my diverse skill set and dedication to delivering high-quality solu
   <a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="50" width="50" /></a>
 </p>
   
-<p align-text="left">Click on Octocat</p>
+<p align-text="center">Click on Octocat</p>
 </button>
+<!--
+<h3 align="left">Let's Chat over a cup of Coffee. <img align="center" src="https://img.icons8.com/stickers/100/coffee-maker.png" width="50" height="50" alt="coffee-maker"/></h3> -->
 
-<h3 align="left">Let's Chat over a cup of Coffee. <img align="center" src="https://img.icons8.com/stickers/100/coffee-maker.png" width="50" height="50" alt="coffee-maker"/></h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p>
  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="50px" alt="pycharm" />
  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg" width="50px" alt="bootstrap" />
