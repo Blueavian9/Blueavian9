@@ -11,7 +11,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a [FullStack Software Engineer] specializing in [Fullstack Developnent]. I enjoy [Reading anything i can get my hands on and eating lots of food].</p>
 </div>
 3. Enable Easy Connections
 Use badges for linking to your LinkedIn, portfolio, or any other professional websites.
