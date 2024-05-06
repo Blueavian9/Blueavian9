@@ -46,28 +46,13 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <!-- Add more badges similarly -->
 </div>
-By including this section, you highlight your ability to work with cutting-edge technology and create immersive digital experiences, showcasing a dynamic range of skills beyond traditional programming. Remember to replace placeholders and add or remove badges based on your specific skills and experiences.
 
-9. Incorporate Stats and Visualizations
-Include GitHub stats to provide a snapshot of your activity and contributions.
-
-Image description
-
-Code Snippet:
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github.com/Blueavian9&theme=github_dark" alt="Cesar Aguilar's GitHub Stats"/>
 </div>
-10. Keep It Updated
-Regularly revisit and update your profile as you acquire new skills, complete more projects, or want to refresh the look and content.
-
-Conclusion
-Your GitHub profile is the front page of your coding journey. With these steps and snippets, you can make it a dynamic, informative, and attractive space that effectively showcases your skills, projects, and personality.
-
-My Complete GitHub Profile Code
-Below is the full source code for creating a dynamic and engaging GitHub profile. This comprehensive code includes all the snippets and sections described earlier, allowing you to replicate or customize the profile setup for your own use. Remember to replace placeholders with your own information and feel free to add or remove sections as per your profile needs. My Github
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cesar Aguilar;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
