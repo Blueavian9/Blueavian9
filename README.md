@@ -103,6 +103,9 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </h2>
     <!--3D Modeling + VR + AR --> 
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+
+
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -115,7 +118,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
 </div>
-
+-->
 
 <!-- GITHUB STATS -->
 <div align="center">
