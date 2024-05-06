@@ -26,16 +26,14 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     </a>
 </div>
 
-<!--
+
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</div> -->
+</div> 
 
 
 <div align="center">
-    <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <!-- Add more badges similarly -->
+   	[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 </div>
 
 <div align="center">
