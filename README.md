@@ -39,8 +39,8 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">👾 Responsive Web Design + UI + UX</h2>
-    <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+    <h2 align="center" class="section-heading">👾 Responsive Web Design + UI + UX 👾</h2>
+    <p>lorem ipsum  isum lorem </p>
     <!-- Replace with your 3D/VR/AR skills -->
     <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -55,7 +55,7 @@ Image description
 
 Code Snippet:
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github.com/Blueavian9&theme=github_dark" alt="Cesar Aguilar's GitHub Stats"/>
 </div>
 10. Keep It Updated
 Regularly revisit and update your profile as you acquire new skills, complete more projects, or want to refresh the look and content.
