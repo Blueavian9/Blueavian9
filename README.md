@@ -75,7 +75,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
     
-<!-- CLOUD TECHNOLOGIES --> 
+<!-- IDE CODE EDITOR TECHNOLOGIES --> 
 <h2 align="center" class="section-heading"> ☁️ Cloud Technologies ☁️</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
