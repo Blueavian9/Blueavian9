@@ -10,8 +10,7 @@
 
 <!-- Hero Image -->
 <div id="container">
-    <img src="![cat png](https://github.com/Blueavian9/Blueavian9/assets/68366917/577fbace-7056-4482-abc3-b25fdeeb8523)
-" id="img1" />
+   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="img1" /> 
     <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/land.png?raw=true" id="img2" />
 </div>
 
