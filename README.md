@@ -5,6 +5,7 @@
 
 <div id="container" align="center">
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.gif" /> 
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land.png" />
 
 </div>
 
