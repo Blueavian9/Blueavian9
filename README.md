@@ -165,6 +165,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 <div align="center">
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31A00DF2&random=false&width=435&lines=Hi+There%2C+Im+Cesar+Aguilar's+Github" alt="Typing SVG" /></a></h1></div>
 
+
 ## 👨‍🔬💡 Aks me about: 
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
@@ -283,13 +284,13 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 <br/><br/>
 <hr/>
 
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blueavian9&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="blueavian9" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blueavian9&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="blueavian9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blueavian9&theme=dracula" alt="blueavian9" /></p>
 
-<!--
 <p align="center">✨ Fun Facts ✨</p>
 
 - 😄 I am excited to be part of a team that contributes on projects of great importance and would love to discuss any opportunities for further reconsideration. 
