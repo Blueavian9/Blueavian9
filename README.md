@@ -156,12 +156,14 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
-
+<!-- Typing SVG  
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello+W+orld!...+I'm+Cesar+Aguilar;+and+This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
-
+-->
+<div align="center">
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31A00DF2&random=false&width=435&lines=Hi+There%2C+Im+Cesar+Aguilar's+Github" alt="Typing SVG" /></a></h1></div>
 
 ## 👨‍🔬💡 Aks me about: 
 
