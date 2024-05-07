@@ -112,11 +112,11 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 <h2 align="center" class="section-heading">
 <!-- 3D MODELING + AV + AR -->
-    👾Responsive Web Design👾
-</h2>
-    <!--3D Modeling + VR + AR --> 
+👾Responsive Web Design👾</h2>
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
-
+<div align="center">
+  
+</div>
 <!-- Need to fix in order to display Certificate HTML style
 <a href="https://www.freecodecamp.org/fccacd6a8f9-f669-47ef-8b0e-87a7592ade1c"><img src="https://cdn.freecodecamp.org/platform/english/images/quincy-larson-signature.svg" width="50px" height="50px"/></a> -->
 <!--
