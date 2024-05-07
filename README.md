@@ -10,7 +10,7 @@
 -->
 
 <div id="container" style="position:relative;">
-  <img style="background-image: url('[moon.png](https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true)');" align="right">
+  <img style="background-image: url("[moon.png](https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true)" align="right">
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" id="cat.png" />
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" id="land.png" style="position:absolute;left:50px;top:50px;" />
 </div>
