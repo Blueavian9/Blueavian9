@@ -1,17 +1,10 @@
 
 
 
-<div id="container" align="center">
-    <p>
-        <img  src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land"); />
-        <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/cat.gif?raw=true" alt="cat.gif" /> 
-    </p>
-</div>
-
 <!-- Hero Image -->
-<div id="container">
-   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="img1" /> 
-    <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/land.png?raw=true" id="img2" />
+<div id="container" align="center">
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="img1" /> 
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/land.png?raw=true" id="img2" />
 </div>
 
 
