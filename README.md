@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>🚀 About Me 🚀</h2>
     <p>I'm a Software Engineer specializing in Fullstack Developnent. I am a dedicated Full-Stack Software Developer with a passion for creating secure and dynamic web applications. With 2+ years of experience at Bloom Institute of Technology plus 5 years as a self-taught, I have developed a strong expertise in building robust solutions using technologies such as React, Node.js, Express, and Knex.
 
 my notable achievements include developing a secure, user-friendly Full-Stack Asylum Report Generator app utilizing Auth0 for authentication, and collaborating with cross-functional teams to ensure seamless integration. I can also demonstrate proficiency in building RESTful APIs, performing CRUD operations, and implementing efficient database schemas.
@@ -22,7 +22,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 <!-- CONNECT WITH ME -->
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<h2 align="center" class="section-heading">🌐 Connect with Me 🌐</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/">
