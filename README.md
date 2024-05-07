@@ -274,7 +274,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blueavian9&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="blueavian9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blueavian9&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="blueavian9" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blueavian9&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="blueavian9" /></p>
 
