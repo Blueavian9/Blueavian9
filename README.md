@@ -3,8 +3,8 @@
 
 <!-- Hero Image -->
 <div id="container" align="center">
-  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="img1" /> 
-  <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/land.png?raw=true" id="img2" />
+  <img src="src/cat.png" alt="img1" /> 
+  <img src="https://src/land.png" id="img2" />
 </div>
 
 
