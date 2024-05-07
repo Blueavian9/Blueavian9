@@ -132,7 +132,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 <!-- GITHUB STATS -->
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<h2 align="center" class="section-heading"> 📊 Github Stats 📊</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -159,7 +159,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 </div>
 
 
-## 💬 Aks me about: 
+## 👨‍🔬💡 Aks me about: 
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
@@ -200,7 +200,6 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 <p align="center">
   <a href="https://octodex.github.com/" target="_blank"><img align="center" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Shows-Octocat-raising-a-tentacle" height="50" width="50" /></a>
 </p>
-  
 <p align-text="center">Click on Octocat</p>
 </button>
 <!--
