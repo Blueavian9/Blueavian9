@@ -3,7 +3,7 @@
 
 <div id="container" align="center">
     <p>
-        <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land.png" />
+        <background-images src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land.png" />
         <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/cat.gif?raw=true" alt="cat.gif" />
     </p>
 </div>
