@@ -9,10 +9,10 @@
 </div>
 -->
 
-<div id="container" style="position:relative;">
-  <p style="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true" align="right">
-  <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" id="cat.png" />
-  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" id="land.png" style="position:absolute;left:50px;top:50px;" />
+<div id="container" >
+  <p style="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true"position:relative;/>
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.png" />
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land.png" style="width="50px";height="50px"; />
 </div>
 
 
