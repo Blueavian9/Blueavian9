@@ -3,8 +3,8 @@
 
 <!-- Hero Image -->
 <div id="container" align="center">
-  <img src="src/cat.png" alt="img1" /> 
-  <img src="https://src/land.png" id="img2" />
+  <img src="../src/cat.png" alt="img1" /> 
+  <img src="../src/land.png" alt="img2" />
 </div>
 
 
