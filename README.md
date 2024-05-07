@@ -274,6 +274,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blueavian9&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="blueavian9" /></p>
