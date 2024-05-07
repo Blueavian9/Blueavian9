@@ -2,9 +2,10 @@
 
 
 <!-- Hero Image -->
+
 <div id="container" align="center">
-  <img src="cat.png" alt="img1" /> 
-  <img src="land.png" alt="img2" />
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.gif" /> 
+
 </div>
 
 
