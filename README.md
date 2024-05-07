@@ -39,15 +39,18 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
     <a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-  <a href="<!-- add facebook url here -->">
+  <a href="<!-- add facebook url here! -->">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
- <a href="" target="_blank">
+ <a href="<!-- add Google url here! " target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/> 
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+  <a href="<!-- add Fiverr url here!" target="_blank">
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+  <a href="<!-- add Upwork url here!" target="_blank">
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/></a>
+<a href="<!-- add Linkedin here!" alt="Linkedin-Profile" -->   target="_blank">
+<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" /></a>
 </div>
 
     
