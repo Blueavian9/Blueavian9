@@ -291,6 +291,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
 
