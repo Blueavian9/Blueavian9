@@ -76,7 +76,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
     
 <!-- IDE CODE EDITOR TECHNOLOGIES --> 
-<h2 align="center" class="section-heading"> ☁️ Cloud Technologies ☁️</h2>
+<h2 align="center" class="section-heading"> ☁️ IDE CODE EDITOR Technologies ☁️</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
