@@ -5,11 +5,12 @@
 <div id="container" align="center">
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.gif" /> 
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" alt="land.png" />
+  <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true" alt="moon.png"/>
 </div>
 -->
 
 <div id="container" style="position:relative;">
-   <img src="" id="moon.png" />
+  <p style="background-image: url('[moon.png](https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true)');">
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" id="cat.png" />
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" id="land.png" style="position:absolute;left:50px;top:50px;" />
 </div>
