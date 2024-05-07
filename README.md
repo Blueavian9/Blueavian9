@@ -280,7 +280,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blueavian9&theme=dracula" alt="blueavian9" /></p>
 
-
+<!--
 <p align="center">✨ Fun Facts ✨</p>
 
 - 😄 I am excited to be part of a team that contributes on projects of great importance and would love to discuss any opportunities for further reconsideration. 
@@ -307,7 +307,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 - 📧 I have hyper intelligent awareness and like challenges
 
-- 📫  I like a challenge and have a problem solving mentality.
+- 📫  I like a challenge and have a problem solving mentality. -->
 
 <br/><br/>
 <hr/>
