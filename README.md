@@ -15,6 +15,8 @@
 <!--   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" width="1750px" height="950px" alt="land.png" /> -->
 </div> 
 
+<br/><br/>
+<hr/>
 
 <div align="center">
     <h2>🚀 About Me 🚀</h2>
