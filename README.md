@@ -154,7 +154,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello..+..World!...+I'm+Cesar+Aguilar;and+This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello..+World!...+I'm+Cesar+Aguilar;and+This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
@@ -219,7 +219,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/angular.svg" width="50px" alt="angular" />
 </p>
 
-<p>
+<p>6
   <img align="center" width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/heroku.svg" width="50px" alt="heroku" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg" width="50px" alt="mysql" />
