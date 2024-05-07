@@ -49,7 +49,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
   <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
   <a href="<!-- add Upwork url here!" target="_blank">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/></a>
-<a href="<!-- add Linkedin here!" alt="Linkedin-Profile" -->   target="_blank">
+<a href="<!-- add Linkedin here!" alt="Linkedin-Profile -->"   target="_blank" />
 <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" /></a>
 </div>
 
