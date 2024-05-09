@@ -173,7 +173,10 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
-| <a class="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       | <a class="PSQL" href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" alt="PostgreSQL-Admin">**PostgreSQL Administration**</a> | <a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a>                  |
+| <a class="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       |
+[**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL) |
+
+<a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a>                  |
 | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
 | **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
 | **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
