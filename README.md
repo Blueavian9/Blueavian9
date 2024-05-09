@@ -171,7 +171,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 ## 👨‍🔬💡 Aks me about: 
 
-| **FRONT END SKILLS AND EXPERIENCE**                                                                |  
+| <strong>FRONT END SKILLS AND EXPERIENCE</strong>                                                                |  
 |----------------------------------------------------------------------------------------------------|
 |[**UI/UX Principles**](https://www.virgingalactic.com/)       |
 [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL) |
@@ -200,7 +200,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**Java Programming**]()|
 [**Flask Micro-Framework**]()|
 [**Responsive Web Design Principles**]()|
-[**React JS Projects**] |
+[**React JS Projects**]() |
 [**Tailwind CSS Projects**]() |
 [**Linux Administration**]() |
 [**Git Bash CommandLine**]() |
@@ -208,18 +208,32 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**Redux**]() |
 [**Git CLI**]() |
 [**UI Principles**]() |
-[**Debugging**]() |                         |
-|                                                                                                    |
-| **BACK END SKILLS AND EXPERIENCE**                                                                 |
-|                                                                                                    |
-| **MySQL**                  | **SQLite**                    | **JQuery**                            | 
-| **React State Management** | **HTTP/Ajax                   | **TypeScript**                        |
-| **DOM.JS**                 | **Unit Testing**              | **Node.JS**                           | 
-| **Next.JS**                | **Primality  Testing Algorithms** | **Tables**                        |  
-| **Cypress**                | **POSTMAN**                   | **SANITY**                            |
-| **Dynamic Programming**    | **Exponential by Squaring**   | **String Matching and Parsing**       |
-| **OOP**                    |  **Agile Project Management** | **Architecture**                      |
-| **Web API's Data Persistence**|  **Authentication**        | **Auth0 Security**                    |               
+[**Debugging**]() |
+ **BACK END SKILLS AND EXPERIENCE** |                                                          
+[**MySQL**]() |
+[**SQLite**]() | 
+[**JQuery**]() |
+[**React State Management**]() |
+[**HTTP/Ajax]() |
+[**TypeScript**]() |
+[**DOM.JS**]() | 
+[**Unit Testing**]() |
+[**Node.JS**] |                        
+[**Next.JS**]() | 
+[**Primality Testing Algorithms**]() |
+[**Tables**]() |  
+[**Cypress**]() |
+[**POSTMAN**]() |
+[**SANITY**]() |
+[**Dynamic Programming**]() |
+[**Exponential by Squaring**]() |
+[**String Matching and Parsing**]() | 
+[**OOP**]() |
+[**Agile Project Management**]() | 
+[**Architecture**]() |                      |
+[**Web API's Data Persistence**]() |
+[**Authentication**]() |
+[**Auth0 Security**]() |
 
 
 
