@@ -173,17 +173,36 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 | **FRONT END SKILLS AND EXPERIENCE**                                                                |  
 |----------------------------------------------------------------------------------------------------|
-| <a class="UI/UX-Prin" href="https://www.virgingalactic.com/" target="_blank" alt="UI/UX-Principles">**UI/UX Principles**</a>       |
+|[**UI/UX Principles**](https://www.virgingalactic.com/)       |
 [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL) |
-<a id="CSS-Access" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript" target="_blank" alt="CSS-Access">**CSS Accesibility**</a> | **CSS Variables**          | **Web Applications**          | **Application Testing**               |
-| **HTML5 Markup**           | **Desktop Applications**      | **CSS FlexBox Model**                     |
-| **CSS3 Markup**            | **CSS Flexbox**               | **CSS Typography**                    |
-| **CSS Grid**               | **ES6**                       | **Deployment**                        |
-| **Context API**            | **Python3**                   | **VS Code**                           |
-| **Express**                | **SaaS**                      | **Bootstrap**                         | 
-| **Server Administration**  | **Project Management**        | **Figma Framework**                   | 
-| **Java Programming**       | **Flask Micro-Framework**     | **Responsive Web Design Principles**  | 
-| **React JS Projects**      | **Tailwind CSS Projects**     | **Linux Administration**              |
+[**CSS Accesibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
+[**CSS Variables**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
+[**Web Applications**]() |
+[**Application Testing**]() |
+[**HTML5 Markup**]() |
+[**Desktop Applications**]() |
+[**CSS FlexBox Model**]()  |
+[**CSS3 Markup**]() |
+[**CSS Flexbox**]() |
+[**CSS Typography**]()|
+[**CSS Grid**]() |
+[**ES6**]() |
+[**Deployment**]()|
+[**Context API**]()|
+[**Python3**]() |
+[**VS Code**]() |
+[**Express**]() |
+[**SaaS**]() |
+[**Bootstrap**]() | 
+[**Server Administration**]() |
+[**Project Management** ]() |
+[**Figma Framework**]() |
+[**Java Programming**]()|
+[**Flask Micro-Framework**]()|
+[**Responsive Web Design Principles**]()|
+[**React JS Projects**] |
+[**Tailwind CSS Projects**]() |
+[**Linux Administration**]() |              |
 | **Git Bash CommandLine**    | **React Router**              | **Redux**                            |
 | **Git CLI**                | **UI Principles**             | **Debugging**                         |
 |                                                                                                    |
