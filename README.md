@@ -202,9 +202,13 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**Responsive Web Design Principles**]()|
 [**React JS Projects**] |
 [**Tailwind CSS Projects**]() |
-[**Linux Administration**]() |              |
-| **Git Bash CommandLine**    | **React Router**              | **Redux**                            |
-| **Git CLI**                | **UI Principles**             | **Debugging**                         |
+[**Linux Administration**]() |
+[**Git Bash CommandLine**]() |
+[**React Router**]() |
+[**Redux**]() |
+[**Git CLI**]() |
+[**UI Principles**]() |
+[**Debugging**]() |                         |
 |                                                                                                    |
 | **BACK END SKILLS AND EXPERIENCE**                                                                 |
 |                                                                                                    |
