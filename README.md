@@ -177,13 +177,13 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL) |
 [**CSS Accesibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
 [**CSS Variables**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
-[**Web Applications**]() |
-[**Application Testing**]() |
-[**HTML5 Markup**]() |
-[**Desktop Applications**]() |
-[**CSS FlexBox Model**]()  |
+[**Web Applications**](https://www.wix.com/) |
+[**Application Testing**](https://www.mindk.com/blog/backend-testing/) |
+[**HTML5 Markup**](https://www.w3schools.com/html/default.asp) |
+[**Desktop Applications**](https://www.codecademy.com/catalog/subject/web-development) |
+[**CSS FlexBox Model**](https://www.codecademy.com/catalog/subject/web-development)  |
 [**CSS3 Markup**]() |
-[**CSS Flexbox**]() |
+[**CSS Flexbox**](https://www.codecademy.com/catalog/subject/web-development) |
 [**CSS Typography**]()|
 [**CSS Grid**]() |
 [**ES6**]() |
@@ -209,7 +209,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**Git CLI**]() |
 [**UI Principles**]() |
 [**Debugging**]() |
- <strong>**BACK END SKILLS AND EXPERIENCE**</strong> |                                                          
+ <strong>**BACK END SKILLS AND EXPERIENCE**</strong> |            
 [**MySQL**]() |
 [**SQLite**]() | 
 [**JQuery**]() |
