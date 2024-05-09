@@ -218,7 +218,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**TypeScript**]() |
 [**DOM.JS**]() | 
 [**Unit Testing**]() |
-[**Node.JS**] |                        
+[**Node.JS**]() |                        
 [**Next.JS**]() | 
 [**Primality Testing Algorithms**]() |
 [**Tables**]() |  
