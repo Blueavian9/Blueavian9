@@ -209,7 +209,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**Git CLI**]() |
 [**UI Principles**]() |
 [**Debugging**]() |
- **BACK END SKILLS AND EXPERIENCE** |                                                          
+ <strong>**BACK END SKILLS AND EXPERIENCE**</strong> |                                                          
 [**MySQL**]() |
 [**SQLite**]() | 
 [**JQuery**]() |
