@@ -171,7 +171,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 ## 👨‍🔬💡 Aks me about: 
 
-| <strong>FRONT END SKILLS AND EXPERIENCE</strong>                                                                |  
+| <strong>**FRONT END SKILLS AND EXPERIENCE**</strong>                                                                |  
 |----------------------------------------------------------------------------------------------------|
 |[**UI/UX Principles**](https://www.virgingalactic.com/)       |
 [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL) |
