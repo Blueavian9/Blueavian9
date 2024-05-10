@@ -182,7 +182,7 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**HTML5 Markup**](https://www.w3schools.com/html/default.asp) |
 [**Desktop Applications**](https://www.codecademy.com/catalog/subject/web-development) |
 [**CSS FlexBox Model**](https://www.codecademy.com/catalog/subject/web-development)  |
-[**CSS3 Markup**]() |
+[**CSS3 Markup**](https://thecsspodcast.libsyn.com/) |
 [**CSS Flexbox**](https://www.codecademy.com/catalog/subject/web-development) |
 [**CSS Typography**]()|
 [**CSS Grid**]() |
