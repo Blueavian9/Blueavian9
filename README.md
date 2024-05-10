@@ -182,33 +182,33 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**HTML5 Markup**](https://www.w3schools.com/html/default.asp) |
 [**Desktop Applications**](https://www.codecademy.com/catalog/subject/web-development) |
 [**CSS FlexBox Model**](https://www.codecademy.com/catalog/subject/web-development)  |
-[**CSS3 Markup**](https://thecsspodcast.libsyn.com/) |
+[**CSS3 Markup**](https://www.webfx.com/blog/web-design/20_websites_learn_master_css/) |
 [**CSS Flexbox**](https://www.codecademy.com/catalog/subject/web-development) |
-[**CSS Typography**]()|
-[**CSS Grid**]() |
-[**ES6**]() |
-[**Deployment**]()|
-[**Context API**]()|
-[**Python3**]() |
-[**VS Code**]() |
-[**Express**]() |
-[**SaaS**]() |
-[**Bootstrap**]() | 
-[**Server Administration**]() |
-[**Project Management** ]() |
-[**Figma Framework**]() |
-[**Java Programming**]()|
-[**Flask Micro-Framework**]()|
-[**Responsive Web Design Principles**]()|
-[**React JS Projects**]() |
-[**Tailwind CSS Projects**]() |
-[**Linux Administration**]() |
-[**Git Bash CommandLine**]() |
-[**React Router**]() |
-[**Redux**]() |
-[**Git CLI**]() |
-[**UI Principles**]() |
-[**Debugging**]() |
+[**CSS Typography**](https://cssreference.io/typography/) |
+[**CSS Grid**](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/) |
+[**ES6**](https://www.javascripttutorial.net/es6/) |
+[**Deployment**](https://www.hostinger.com/)|
+[**Context API**](https://en.wikipedia.org/wiki/API) |
+[**Python3**](https://pythoninstitute.org/) |
+[**VS Code**](https://code.visualstudio.com/) |
+[**Express**](https://expressjs.com/) |
+[**SaaS**](https://sass-lang.com/guide/) |
+[**Bootstrap**](https://getbootstrap.com/docs/5.0/getting-started/download/) | 
+[**Server Administration**](https://www.nobledesktop.com/certificates/web-design) |
+[**Project Management** ](https://monday.com/ap/project-management/?utm_medium=cpc&utm_source=bing&utm_campaign=us-en-prm-workos-project-project_management_lt-h-search-desktop-core-bing&utm_adgroup=project%20management%20system&utm_content=project%20management%20system&utm_keyword=project%20management%20system&utm_match_type=p&utm_bid_match_type=bp&utm_vertical=o&cluster=&subcluster=&ati=&msclkid=c1832bb7afa71da34b804d8992eb95dd) |
+[**Figma Framework**](https://www.figma.com/) |
+[**Java Programming**](https://www.java.com/en/) |
+[**Flask Micro-Framework**](https://www.freecodecamp.org/news/learn-flask-for-python-full-tutorial/) |
+[**Responsive Web Design Principles**](https://www.w3schools.com/html/html_responsive.asp) |
+[**React JS Projects**](https://react.dev/) |
+[**Tailwind CSS Projects**](https://tailwindcss.com/) |
+[**Linux Administration**](https://www.linux.com/) |
+[**Git CLI**](https://git-scm.com/) |
+[**Git Bash**](https://hackernoon.com/understanding-git-bash-and-git-bash) |
+[**React Router**](https://ui.dev/react-router-tutorial) |
+[**Redux**](https://redux.js.org/tutorials/fundamentals/part-1-overview) |
+[**UI Principles**](https://www.codecademy.com/learn/intro-to-ui-ux) |
+[**Debugging**](https://en.wikipedia.org/wiki/Debugging) |
  <strong>**BACK END SKILLS AND EXPERIENCE**</strong> |            
 [**MySQL**]() |
 [**SQLite**]() | 
@@ -230,11 +230,10 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 [**String Matching and Parsing**]() | 
 [**OOP**]() |
 [**Agile Project Management**]() | 
-[**Architecture**]() |                      |
+[**Architecture**]() |  
 [**Web API's Data Persistence**]() |
 [**Authentication**]() |
 [**Auth0 Security**]() |
-
 
 
 <p align="center"><a href="https://www.linkedin.com/in/cesar-aguilar-blueavian9/" target="blank">
