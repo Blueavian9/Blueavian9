@@ -254,13 +254,10 @@ I am excited to leverage than 2 years and counting of hands-on  real world exper
 
 ## 👨‍🔬💡 Aks me about: 
 
-| <strong>**FRONT END SKILLS AND EXPERIENCE**</strong>         |                                                                              |  
-|--------------------------------------------------------------|------------------------------------------------------------------------------|----------------|---------------------------------------------|
-|[**UI/UX Principles**](https://www.virgingalactic.com/)       |  [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL)   |
-[**CSS Accesibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
-[**CSS Variables**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
-[**Web Applications**](https://www.wix.com/) |
-[**Application Testing**](https://www.mindk.com/blog/backend-testing/) |
+| <strong>**FRONT END SKILLS AND EXPERIENCE**</strong>     |                                                                              |                                                              |
+|----------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+|[**UI/UX Principles**](https://www.virgingalactic.com/)   |  [**PostgreSQL Administration**](https://en.wikipedia.org/wiki/PostgreSQL)   |  [**CSS Accesibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)  |  
+| [**CSS Variables**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) | [**Web Applications**](https://www.wix.com/) | [**Application Testing**](https://www.mindk.com/blog/backend-testing/) |
 [**HTML5 Markup**](https://www.w3schools.com/html/default.asp) |
 [**Desktop Applications**](https://www.codecademy.com/catalog/subject/web-development) |
 [**CSS FlexBox Model**](https://www.codecademy.com/catalog/subject/web-development)  |
