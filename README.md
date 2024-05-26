@@ -10,7 +10,6 @@
 -->
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,11 +18,11 @@
   <style>
     .container {
       position: relative;
-      width: 800px;
-      height: 600px;
-      background: url('land.jpg') no-repeat center center;
+      width: 800px; /* Adjust as needed */
+      height: 600px; /* Adjust as needed */
+      background: url('path/to/your/land.jpg') no-repeat center center;
       background-size: cover;
-      text-align: center; /* Center align the content */
+      text-align: center;
     }
     .overlay-svg {
       position: absolute;
@@ -33,7 +32,7 @@
       height: 100%;
     }
     img {
-      max-width: 100%; /* Ensure images do not overflow the container */
+      max-width: 100%;
       height: auto;
     }
   </style>
@@ -41,7 +40,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" class="overlay-svg" alt="cat.png" />
+    <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" class="overlay-svg" alt="Cat SVG" />
   </div>
   
 <br/><br/>
