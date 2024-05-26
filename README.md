@@ -12,6 +12,8 @@
 <div id="container" align="center">
 <!--   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true" width="400px" height="450px" alt="moon.png"/> -->
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.png" />
+  <img-background src="![Uploading image.png…]()
+" alt="land.png" /> 
 <!--   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" width="1750px" height="950px" alt="land.png" /> -->
 </div> 
 
