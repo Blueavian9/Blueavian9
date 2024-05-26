@@ -8,14 +8,21 @@
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true" alt="moon.png"/>
 </div>
 -->
-
-<div id="container" align="center">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+<div class="container" align="center" position: relative;, width: 800px; height: 600px; background: url('land.jpg'); no-repeat center center; background-size: cover;>
+<div class="overlay-svg" position: absolute; top: 0; left: 0; width: 100%; height: 100%;></div> 
+  
 <!--   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/moon.png?raw=true" width="400px" height="450px" alt="moon.png"/> -->
   <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" alt="cat.png" />
   <img src="![Uploading image.png…]()
 " alt="land.png" width: 250px; height: 600px; /> 
 <!--   <img src="https://github.com/fireship-io/skydiving-cat-parallax/blob/main/src/land.png?raw=true" width="1750px" height="950px" alt="land.png" /> -->
 </div> 
+</style>
+</head>
 
 <br/><br/>
 <hr/>
