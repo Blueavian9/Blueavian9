@@ -1,5 +1,3 @@
-GITHUB PROFILE: 
-
 
 
 <!-- Hero Image 
