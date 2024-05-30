@@ -8,36 +8,12 @@
 </div>
 -->
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .container {
-      position: relative;
-      width: 800px; /* Adjust as needed */
-      height: 600px; /* Adjust as needed */
-      background: url('path/to/your/land.jpg') no-repeat center center;
-      background-size: cover;
-      text-align: center;
-    }
-    .overlay-svg {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-  <title>SVG on Background</title>
-</head>
-<body>
+ 
   <div class="container">
     <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" class="overlay-svg" alt="Cat SVG" />
   </div>
