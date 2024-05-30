@@ -14,7 +14,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-  <div class="container">
+  <div class="container" align="center">
     <img src="https://github.com/fireship-io/skydiving-cat-parallax/raw/main/src/cat.gif?raw=true" class="overlay-svg" alt="Cat SVG" />
   </div>
   
