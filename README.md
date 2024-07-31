@@ -23,13 +23,9 @@
 
 <div align="center">
     <h2>🚀 About Me 🚀</h2>
-    <p>I'm a Software Engineer specializing in Fullstack Developnent. I am a dedicated Full-Stack Software Developer with a passion for creating secure and dynamic web applications. With 2+ years of experience at Bloom Institute of Technology plus 5 years as a self-taught, I have developed a strong expertise in building robust solutions using technologies such as React, Node.js, Express, and Knex.
+    <p>I am a Full-Stack Software Developer with over three years of experience, specializing in creating secure and dynamic web applications. My expertise spans technologies like React, Node.js, and Express, with advanced skills in AI integration, demonstrated by my work with Groq Whisper. At TalkAnimate Inc., I led the development of a Full-Stack Asylum Report Generator, featuring robust security and seamless authentication with Auth0. I am proficient in building RESTful APIs, performing CRUD operations, and implementing efficient database schemas, ensuring high-quality and scalable solutions.
 
-my notable achievements include developing a secure, user-friendly Full-Stack Asylum Report Generator app utilizing Auth0 for authentication, and collaborating with cross-functional teams to ensure seamless integration. I can also demonstrate proficiency in building RESTful APIs, performing CRUD operations, and implementing efficient database schemas.
-
-With experience in security and access control management, I am adept at working effectively in fast-paced environments while maintaining a strong focus on safety and compliance. my diverse skill set and dedication to delivering high-quality products and solutions make me a useful asset to any software development team.
-
-I am excited to leverage than 2 years and counting of hands-on  real world experience and a proven track record of collaborating with non-profit startups and teams to the development of innovative, impactful applications in the tech industry. I enjoy a good challenge of building breaking and finiship projects under tight deadlines and growing as professional Developer Reading anything i can get my hands on. I enjoy spending time with my wife friends and family.</p>
+I excel in collaborative, fast-paced environments, with a strong focus on security and compliance. My diverse skill set and proactive approach make me a valuable asset to any software development team. I am eager to leverage my hands-on experience and proven track record to contribute to your organization's innovative projects. I enjoy taking on challenging projects and continuously learning, both in my professional career and through personal interests.</p>
 </div>
 
 
