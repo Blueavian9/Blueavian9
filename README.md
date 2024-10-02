@@ -31,7 +31,7 @@ I excel in collaborative, fast-paced environments, with a strong focus on securi
 
 
 <!-- CONNECT WITH ME -->
-<!
+
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me 🌐</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
