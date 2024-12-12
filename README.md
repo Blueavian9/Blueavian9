@@ -176,6 +176,7 @@ I excel in collaborative, fast-paced environments, with a strong focus on securi
 
 
 
+
 <!-- FRAMEWORKS -->
 <h2 align="center" class="section-heading">🔧 Frameworks 🔧</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
