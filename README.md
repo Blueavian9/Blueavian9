@@ -23,17 +23,17 @@
 
 <div align="center">
     <h2>🚀 About Me 🚀</h2>
-    <p>I am a results-driven technology professional with over three years of experience as a Full-Stack Software Engineer, specializing in cloud computing, cybersecurity, and cutting-edge web technologies. Currently, I am pursuing a B.S. in Cloud Computing and an M.S. in Cybersecurity and Information Assurance at Western Governors University (WGU), advancing my ability to design secure, scalable, and innovative solutions for evolving business needs.
+    <p>I am Cesar Aguilar a results-driven technology professional with over three years of experience as a Full-Stack Software Engineer, specializing in cloud computing, cybersecurity, and cutting-edge web technologies. I am pursuing a B.S. in Cloud Computing and an M.S. in Cybersecurity and Information Assurance at Western Governors University (WGU), advancing my ability to design secure, scalable, and innovative solutions for evolving business needs.
 
 With hands-on expertise in AWS and Azure, I bring strong proficiency in cloud architecture, DevOps practices, infrastructure automation, and CI/CD pipelines. My technical skill set includes JavaScript, React.js, Node.js, Express, MySQL, MongoDB, Tailwind CSS, and RESTful APIs, alongside a solid understanding of data structures, algorithms, and OOP principles. My cybersecurity education complements my technical foundation, equipping me with advanced skills in threat management, risk assessment, penetration testing, and compliance with industry standards like NIST and ISO 27001.
 
-I excel at gathering and analyzing information to draw accurate conclusions and make data-driven decisions. Skilled in solving complex problems, I assess vulnerabilities, evaluate risks, and implement optimal solutions. My ability to organize, plan, and prioritize competing assignments ensures efficient handling of dynamic workloads. Additionally, I thrive in navigating evolving environments and possess strong communication skills, enabling me to deliver reports, & briefings, and exchange information with clarity and impact.
+I excel at gathering and analyzing information to draw accurate conclusions and make data-driven decisions. Skilled in solving complex problems, I assess vulnerabilities, evaluate risks, and implement optimal solutions. My ability to organize, plan, and prioritize competing assignments ensures efficient handling of dynamic workloads. Additionally, I thrive in navigating evolving environments and possess strong communication skills, enabling me to deliver reports and briefings and exchange information with clarity and impact.
 
-I am committed to continuous learning and plan to pursue a Doctorate in Business Administration in Leadership with a specialization in Business Organization at Thomas Edison State University (TESU) after completing my M.S. in Cybersecurity. This will further refine my ability to lead high-performing teams, drive digital transformation, and align technology initiatives with business goals.
+I am committed to continuous learning and plan to pursue a Doctorate in Business Administration in Leadership specializing in Business Organization at Thomas Edison State University (TESU) after completing my M.S. in Cybersecurity. This will refine my ability to lead high-performing teams, drive digital transformation, and align technology initiatives with business goals.
 
 I am passionate about creating value by combining technical expertise with strategic insight. Whether optimizing cloud infrastructure, enhancing application performance, addressing complex challenges, or implementing secure solutions, I am dedicated to delivering impactful and scalable results. My collaborative mindset and dedication to innovation enable me to adapt and excel in today’s rapidly evolving technological landscape.
 
-By leveraging my technical acumen, analytical capabilities, and business foresight, I aim to contribute to forward-thinking organizations seeking to innovate, thrive, and succeed in a competitive marketplace.</p>
+I leverage my technical acumen, analytical capabilities, and business foresight to contribute to forward-thinking organizations seeking to innovate, thrive, and succeed in a competitive marketplace.</p>
 </div>
 
 
