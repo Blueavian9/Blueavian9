@@ -23,17 +23,15 @@
 
 <div align="center">
     <h2>🚀 About Me 🚀</h2>
-    <p>I am Cesar Aguilar a results-driven technology professional with over three years of experience as a Full-Stack Software Engineer, specializing in cloud computing, cybersecurity, and cutting-edge web technologies. I am pursuing a B.S. in Cloud Computing and an M.S. in Cybersecurity and Information Assurance at Western Governors University (WGU), advancing my ability to design secure, scalable, and innovative solutions for evolving business needs.
+    <p>Hi, I'm Cesar Aguilar, a dynamic Full-Stack Software Engineer with 3+ years of experience, specializing in Cloud Computing, DevOps, and AI-driven solutions.
 
-With hands-on expertise in AWS and Azure, I bring strong proficiency in cloud architecture, DevOps practices, infrastructure automation, and CI/CD pipelines. My technical skill set includes JavaScript, React.js, Node.js, Express, MySQL, MongoDB, Tailwind CSS, and RESTful APIs, alongside a solid understanding of data structures, algorithms, and OOP principles. My cybersecurity education complements my technical foundation, equipping me with advanced skills in threat management, risk assessment, penetration testing, and compliance with industry standards like NIST and ISO 27001.
+With deep expertise in JavaScript, React, Node.js, Express, AWS, and Azure, I excel at building secure, scalable applications, optimizing cloud infrastructure, and integrating AI-powered technologies. My background includes developing RESTful APIs, authentication systems, and AI-driven applications while implementing DevOps best practices to enhance deployment efficiency.
 
-I excel at gathering and analyzing information to draw accurate conclusions and make data-driven decisions. Skilled in solving complex problems, I assess vulnerabilities, evaluate risks, and implement optimal solutions. My ability to organize, plan, and prioritize competing assignments ensures efficient handling of dynamic workloads. Additionally, I thrive in navigating evolving environments and possess strong communication skills, enabling me to deliver reports and briefings and exchange information with clarity and impact.
+Currently, I'm advancing my expertise by pursuing a B.S. in Cloud Computing and an M.S. in Artificial Intelligence & Machine Learning at WGU, strengthening my ability to drive digital transformation and architect cutting-edge AI solutions. My long-term vision includes earning a Doctorate in AI, positioning me as a leader in next-generation software development and cloud innovation.
 
-I am committed to continuous learning and plan to pursue a Doctorate in Business Administration in Leadership specializing in Business Organization at Thomas Edison State University (TESU) after completing my M.S. in Cybersecurity. This will refine my ability to lead high-performing teams, drive digital transformation, and align technology initiatives with business goals.
+I am passionate about building high-impact technology solutions that accelerate business growth. Whether enhancing system performance, optimizing cloud strategies, or implementing AI-driven automation, I bring a strategic, results-driven approach that aligns technology with business objectives.
 
-I am passionate about creating value by combining technical expertise with strategic insight. Whether optimizing cloud infrastructure, enhancing application performance, addressing complex challenges, or implementing secure solutions, I am dedicated to delivering impactful and scalable results. My collaborative mindset and dedication to innovation enable me to adapt and excel in today’s rapidly evolving technological landscape.
-
-I leverage my technical acumen, analytical capabilities, and business foresight to contribute to forward-thinking organizations seeking to innovate, thrive, and succeed in a competitive marketplace.</p>
+With a strong problem-solving mindset, DevOps expertise, and a deep commitment to innovation, I thrive in fast-paced, forward-thinking environments. I am eager to contribute my skills to organizations looking to scale, innovate, and lead in the digital era.</p>
 </div>
 
 
