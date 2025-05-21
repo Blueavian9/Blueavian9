@@ -23,15 +23,17 @@
 
 <div align="center">
     <h2>🚀 About Me 🚀</h2>
-    <p>Hi, I'm Cesar Aguilar, a dynamic Full-Stack Software Engineer with 3+ years of experience, specializing in Cloud Computing, DevOps, and AI-driven solutions.
+    <p>👋 Hi, I’m Cesar Aguilar – a Full-Stack Software Engineer working at the intersection of AI, DevOps, and Cloud Architecture.
 
-With deep expertise in JavaScript, React, Node.js, Express, AWS, and Azure, I excel at building secure, scalable applications, optimizing cloud infrastructure, and integrating AI-powered technologies. My background includes developing RESTful APIs, authentication systems, and AI-driven applications while implementing DevOps best practices to enhance deployment efficiency.
+🔧 I build full-stack applications using React.js, Node.js, Express, AWS Polly V3, OpenAI APIs, and integrate modern AI tooling such as LangChain and RAG pipelines into practical solutions.
 
-Currently, I'm advancing my expertise by pursuing a B.S. in Cloud Computing and an M.S. in Artificial Intelligence & Machine Learning at WGU, strengthening my ability to drive digital transformation and architect cutting-edge AI solutions. My long-term vision includes earning a Doctorate in AI, positioning me as a leader in next-generation software development and cloud innovation.
+💡 While my theoretical understanding covers distributed systems, prompt engineering, data pipelines, and CI/CD automation, my hands-on experience is at the entry-to-junior level, where I’m actively applying and refining these concepts through solo and collaborative projects.
 
-I am passionate about building high-impact technology solutions that accelerate business growth. Whether enhancing system performance, optimizing cloud strategies, or implementing AI-driven automation, I bring a strategic, results-driven approach that aligns technology with business objectives.
+🧠 I'm currently pursuing a B.S. in Cloud Computing and an M.S. in Artificial Intelligence & Machine Learning at WGU, focusing on the development of scalable, AI-integrated systems that adhere to secure-by-design principles and S.O.L.I.D. software architecture.
 
-With a strong problem-solving mindset, DevOps expertise, and a deep commitment to innovation, I thrive in fast-paced, forward-thinking environments. I am eager to contribute my skills to organizations looking to scale, innovate, and lead in the digital era.</p>
+🚀 Whether I’m working with REST APIs, developing AI agents, or deploying secure microservices, I’m always driven to bridge the gap between theory and practice through code that makes an impact.
+
+</p>
 </div>
 
 
